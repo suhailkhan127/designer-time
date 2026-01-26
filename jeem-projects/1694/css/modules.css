@@ -1,0 +1,151 @@
+/*** TOP SEARCH START******/
+.top .search {
+	float: right;
+	height: 68px;
+	width: 214px;
+	margin: 0px 15px 0px 0px;
+	padding: 0px;
+	background:url(../images/border_btm.jpg) bottom repeat-x;
+
+
+}
+.top .search .form {
+	float: left;
+	margin: 0px;
+	padding: 0px;
+	height: 36px;
+	background: url(../images/find_bg.png) no-repeat;
+
+}
+.top .search .inputbox 
+{
+	float: left;
+	padding: 5px;
+	width: 169px;
+	height: 30px;
+	margin: 0px 0 0 0;
+	color: #555555;
+	padding: 0px 0 0 5px;
+	border: none;
+	background: none;
+	outline: none;
+	line-height: 30px;
+	} 
+	
+.top .search .btn 
+{
+	float: left;
+	width: 30px;
+	height: 30px;
+	margin: 0px 10px 0 0;
+	padding: 0px 0 0 0;
+	color: #FFFFFF;
+	border: none;
+	text-align: center;
+	background: url(../images/quick_find.jpg);
+	outline: none;
+	text-transform: uppercase;
+	font-family: 'Oswald', sans-serif;
+	font-size: 13px;
+	} 
+.top .search .btn:hover
+{
+	background:url(../images/quick_find.jpg);
+	} 
+/*** TOP SEARCH END******/
+ 
+
+
+
+
+/*** LOGIN BOX START******/
+
+.login-box { float:left; margin-left:5px; min-height:200px; border:0px solid blue; }
+.login-box .content { float:left; width:100%; border:0px solid gray;    }
+ 
+.login-box  h1 {    
+	float:left;
+ 	height:auto;
+	margin:5px 0px 0 0px;
+	padding:0px 0px 7px 0px;
+	font-size:20px;
+	color:#120a09;
+	font-family:Trebuchet MS;
+	text-transform:uppercase;
+	border-bottom:1px solid #f37d00;
+}
+ 
+.login-box fieldset { width:250px; margin:0px; padding:0px;  border:0px solid red; }
+.login-box fieldset .inputbox { float:right; border:0px solid black; }
+ilogin-box #form-login-remember { border:0px solid pink;}
+.blk-txt { color:#000000;}
+.blk-txt a { color:#000000;}
+
+/*** LOGIN BOX END******/
+
+/*** LOGIN BOX END******/
+.newsletter_box {
+	float:left;
+	width:295px;
+	padding:0;
+	margin:7px 0px 0px 0px;
+/*---- for news background
+background:url(../images/news-tile.jpg) repeat-x;
+*/
+}
+.newsletter_box h2 {
+	padding:0px 0px 0px 0px;
+	margin:0px 0 10px 0;
+	color:#fff;
+	font-size: 28px;
+	font-family: 'Source Sans Pro', sans-serif;
+	text-transform: capitalize;
+	letter-spacing: 1px;
+	font-weight: normal;
+}
+.newsletter_box p {
+	float:left;
+	width:230px;
+	padding:0;
+	font-family:Tahoma;
+	font-size:12px;
+	margin:0px 0px 10px 0px;
+	color:#000000;
+}
+.newsletter_box .acymailing_form {
+	float:left;
+	width: auto;
+	height:auto;
+}
+.newsletter_box input {
+	float:left;
+	width: 200px;
+	height:30px;
+	border:none;
+	color:#fff;
+	margin:0px 0px 0px 0px;
+	background:#202020;
+	padding: 0 0 0 6px;
+	line-height: 30px;
+
+}
+
+.newsletter_box .newsletter_btn {
+	float:right;
+	text-align:center;
+	width:85px;
+	height:26px;
+	padding:3px 0px 0px 0px;
+	margin:0px 2px 0px 0px;
+	background:#0c97e1;
+	color: #fff;
+	font-family: 'Oswald', sans-serif;
+	text-transform: uppercase;
+	font-size: 14px;
+}
+
+.newsletter_box .newsletter_btn:hover {
+	background:#0986c9;
+}
+
+/****NEWSLETTER BOX END*******/
