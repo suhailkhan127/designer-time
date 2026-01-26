@@ -1,0 +1,197 @@
+/*** TOP SEARCH START*****/
+.top .search {
+	float:right;
+	height:34px;
+	width:247px;
+	margin:0px 0px 0px 0px;
+	padding:0;
+	background:url(../images/search-bkgd.html) no-repeat top center;
+}
+.top {
+	float:right;
+	height:34px;
+	width:261px;
+	margin:10px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	background:url(../images/search-bkgd.html) no-repeat top center;
+}
+.top .search .form {
+	float:right;
+	height:30px;
+	width:235px;
+	margin:0px 0px 0px 0px;
+	padding:1px;
+	background:#fff;
+	border: 1px solid #05ace5;
+}
+.top .search .inputbox
+{
+	float:left;
+	width:140px;
+	height:20px;
+	padding:4px 0px 0px 0px;
+	margin:0px 0 0 5px;
+	color:#515151;
+	/*background:url(../images/bak_bar.jpg);*/
+	font-family:Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	line-height: 20px;
+	outline:none;
+	border:0px solid red;
+}
+.top .search .findbtn
+{
+	float:right;
+	width:50px;
+	height:auto;
+	padding:5px;
+	margin:1px 0 0 0px;
+	color:#fff;
+	font-family:Cafeta;
+	text-transform:uppercase;
+	text-align:center;
+	background:url(../images/bg_tile.jpg);
+	text-decoration:none;
+	font-size: 16px;
+
+}
+.top .search .findbtn:hover
+{
+	background:url(../images/bg_tile.jpg);
+	text-decoration: none;
+
+}
+/*****TOP LINKS BOX START********/
+.tlinks-box { margin:0px; padding:0px; vertical-align:top; border:0px solid green; }
+.tlinks-box h1 { margin:0px; padding:0px; }
+.tlinks-box .content { text-align:left; padding:3px; border:0px solid blue; }
+.tlinks-box .content a {color:#444444; text-decoration:none; }
+.tlinks-box .content a:hover {color:#444444; text-decoration:underline; } 
+/*****TOP LINKS BOX START********/
+
+
+
+
+ 
+/*****MODULE BOX FOR START********/
+.module_box { margin:0px 0px 10px 0px; border:0px solid red; }
+.module_box .content { text-align:left; padding:3px; border:0px solid blue; }
+.module_box .content a {color:#444444; text-decoration:none; }
+.module_box .content a:hover {color:#444444; text-decoration:underline; }
+/*****MODULE BOX END********/
+
+
+
+/*****NEWSLETTER BOX START********/
+.newsletter_box {
+	float:right;
+	width:300px;
+	padding:0;
+	margin:0px 10px 0px 0px;
+	background:url(../images/news-tile.html) repeat-x;
+	position: relative;
+}
+.newsletter_box h2 {
+	padding:0px 0px 20px 0px;
+	margin:0px;
+	color:#ffffff;
+	font-size: 22px;
+	letter-spacing: -1px;
+}
+.newsletter_box p {
+	float:left;
+	width:185px;
+	padding:0;
+	font-size:13px;
+	margin:10px 0px 10px 0px;
+}
+.newsletter_box .acymailing_form {
+	float:left;
+	width: 180px;
+	height:25px;
+	background:url(../images/search-bkgd-2.html);
+	margin: 5px 0 0 0;
+}
+.newsletter_box .form {
+	float:left;
+	width: 180px;
+	border:none;
+}
+.newsletter_box .input {
+	width:270px;
+	background:#fff;
+	border:none;
+	height:36px;
+	margin:0px;
+	padding:3px;
+	font-size:12px;
+	letter-spacing:0.5px;
+	border:none;
+	outline:none;
+	float: left;
+}
+.newsletter_box .inputbox {
+	width:180px;
+	background:#fff;
+	border:none;
+	height:25px;
+	margin:0px;
+	padding:3px;
+	font-size:12px;
+	border:none;
+	outline:none;
+	line-height: 25px;
+	float: left;
+}
+
+.newsletter_box .newsletter_btn {
+	float:right;
+	text-align:center;
+	width:74px;
+	height:25px;
+	padding:5px 0px 0px 0px;
+	margin:3px 5px 0px 5px;
+	background:url(../images/bg_tile.jpg);
+	font-size: 16px;
+	color:#FFFFFF;
+	text-transform: uppercase;
+}
+.newsletter_box .newsletter_btn:hover {
+	background:url(../images/bg_tile.jpg);
+	color:#000;
+}
+/*****NEWSLETTER BOX END********/
+.copyright {
+	float:left;
+	height:auto;
+	margin:35px 0px 0 0px;
+	padding:0px 0px 7px 0px;
+	font-size:13px;
+	color:#fff;
+	text-transform:capitalize;
+	width: 960px;
+}
+/*** LOGIN BOX START******/
+
+.login-box { float:left; margin-left:5px; min-height:200px; border:0px solid blue; }
+.login-box .content { float:left; width:100%; border:0px solid gray;    }
+ 
+.login-box  h1 {    
+	float:left;
+ 	height:auto;
+	margin:5px 0px 0 0px;
+	padding:0px 0px 7px 0px;
+	font-size:20px;
+	color:#120a09;
+	font-family:Trebuchet MS;
+	text-transform:uppercase;
+	border-bottom:1px solid #f37d00;
+}
+ 
+.login-box fieldset { width:250px; margin:0px; padding:0px;  border:0px solid red; }
+.login-box fieldset .inputbox { float:right; border:0px solid black; }
+.login-box #form-login-remember { border:0px solid pink;}
+.blk-txt { color:#000000;}
+.blk-txt a { color:#000000;}
+
+/*** LOGIN BOX END******/
