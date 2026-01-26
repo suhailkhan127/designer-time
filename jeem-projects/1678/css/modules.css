@@ -1,0 +1,163 @@
+/*** TOP SEARCH START******/
+.top .search {
+	float:right;
+	height:auto;
+	width:289px;
+	margin:15px 0px 0px 0px;
+	padding:7px;
+	background:url(../images/search_bg.png);
+
+}
+.top .search .form {
+	float:left;
+	margin:0px;
+	padding:3px;
+	background: #fff;
+}
+.top .search .inputbox 
+{
+	float:left;
+	padding:5px;
+	width:200px;
+	height:32px;
+	margin:0px 0 0 0;
+	color:#555555;
+	padding:0px 0 0 10px;
+	border:none;
+	background:none;
+	outline: none;
+	line-height: 32px;
+	} 
+	
+.top .search .btn 
+{
+	float:right;
+	width:71px;
+	height:27px;
+	margin:0px 0 0 0;
+	padding:7px 0 0 0;
+	color:#FFFFFF;
+	padding:6px 0 0 0;
+	border:none;
+	text-align:center;
+	background:#000;
+	outline: none;
+	text-transform: uppercase;
+	font-family: 'Oswald', sans-serif;
+	font-size: 13px;
+	} 
+.top .search .btn:hover
+{
+	background:#0388a7;
+	} 
+/*** TOP SEARCH END******/
+ 
+
+
+
+
+/*** LOGIN BOX START******/
+
+.login-box { float:left; margin-left:5px; min-height:200px; border:0px solid blue; }
+.login-box .content { float:left; width:100%; border:0px solid gray;    }
+ 
+.login-box  h1 {    
+	float:left;
+ 	height:auto;
+	margin:5px 0px 0 0px;
+	padding:0px 0px 7px 0px;
+	font-size:20px;
+	color:#120a09;
+	font-family:Trebuchet MS;
+	text-transform:uppercase;
+	border-bottom:1px solid #f37d00;
+}
+ 
+.login-box fieldset { width:250px; margin:0px; padding:0px;  border:0px solid red; }
+.login-box fieldset .inputbox { float:right; border:0px solid black; }
+ilogin-box #form-login-remember { border:0px solid pink;}
+.blk-txt { color:#000000;}
+.blk-txt a { color:#000000;}
+
+/*** LOGIN BOX END******/
+
+/*** LOGIN BOX END******/
+.newsletter_box {
+	/*float:right;
+	width:272px;*/
+	padding:0;
+	margin:7px 0px 0px 0px;
+	position: relative;
+/*---- for news background
+background:url(../images/news-tile.jpg) repeat-x;
+*/
+}
+.newsletter_box h2 {
+	padding:0px 0px 0px 0px;
+	margin:0px 0 10px 0;
+	color:#ec6600;
+	font-size: 19px;
+	font-family: cafeta;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	font-weight: normal;
+}
+.newsletter_box p {
+	float:left;
+	width:230px;
+	padding:0;
+	font-family:Tahoma;
+	font-size:12px;
+	margin:0px 0px 10px 0px;
+	color:#000000;
+}
+.newsletter_box .acymailing_form {
+	/*float:left;*/
+	width: auto;
+	height:auto;
+	background:url(../images/news_bar.jpg) no-repeat;
+}
+.newsletter_box input {
+	float:left;
+	width: 55%;
+	height:31px;
+	border:none;
+	color:#000;
+	margin:0px 0px 0px 0px;
+	background:#fff;
+	padding: 0 0 0 7px;
+	line-height: 31px;
+	border-radius:5px 0px 0 5px;
+	-moz-border-radius:5px 0px 0 5px;
+	-webkit-border-radius:5px 0px 0 5px;
+	behavior: url(js/PIE.htc);
+	position:relative;
+	font-size: 12px;
+
+}
+
+.newsletter_box .newsletter_btn {
+	float:left;
+	text-align:center;
+	width:85px;
+	height:32px;
+	padding:6px 0px 0px 0px;
+	margin:0px 2px 0px 0px;
+	background:#d94100;
+	color: #fff;
+	font-family:cafeta;
+	text-transform: uppercase;
+	font-size: 12px;
+	border-radius:0px 5px 5px 0px;
+	-moz-border-radius:0px 5px 5px 0px;
+	-webkit-border-radius:0px 5px 5px 0px;
+	behavior: url(js/PIE.htc);
+	position:relative;
+}
+
+.newsletter_box .newsletter_btn:hover {
+	background:#d53b00;
+	text-shadow: 0.0em 0.1em #333
+}
+
+/****NEWSLETTER BOX END*******/
