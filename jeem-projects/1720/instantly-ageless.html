@@ -1,0 +1,398 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Responsive Template">
+	<meta name="keywords" content="Responsive Template">
+    <title>Evolution Health & Fitness</title>
+	
+	
+	<!-- core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/font-awesome.min.css" rel="stylesheet">
+    <link href="css/animate.min.css" rel="stylesheet">
+    <link href="css/prettyPhoto.css" rel="stylesheet">
+    <link href="css/main.css" rel="stylesheet">
+    <link href="css/responsive.css" rel="stylesheet">
+	
+	
+	 <link href="css/product.css" rel="stylesheet">
+	 
+	 <!-- live ajax is downloaded  -->
+	 <script src="js/demo.js"></script>
+	 
+    <!--[if lt IE 9]>
+    <script src="js/html5shiv.js"></script>
+    <script src="js/respond.min.js"></script>
+    <![endif]-->     
+	
+	<!---  toggle script  --->
+			<script> 
+			
+					// 1th product
+					$(document).ready(function(){
+						$("#flip11").click(function(){
+							$("#panel11").slideToggle("slow");
+							$("#panel12").slideUp("slow");
+							$("#panel13").slideUp("slow");
+							$("#panel14").slideUp("slow");
+						});
+					});
+					
+					$(document).ready(function(){
+						$("#flip12").click(function(){
+							$("#panel11").slideUp("slow");
+							$("#panel12").slideToggle("slow");
+							$("#panel13").slideUp("slow");
+							$("#panel14").slideUp("slow");
+						});
+					});
+					
+					$(document).ready(function(){
+						$("#flip13").click(function(){
+							$("#panel11").slideUp("slow");
+							$("#panel12").slideUp("slow");
+							$("#panel13").slideToggle("slow");
+							$("#panel14").slideUp("slow");
+						});
+					});
+					
+					
+					$(document).ready(function(){
+						$("#flip14").click(function(){
+							$("#panel11").slideUp("slow");
+							$("#panel12").slideUp("slow");
+							$("#panel13").slideUp("slow");
+							$("#panel14").slideToggle("slow");
+						});
+					});
+					
+					
+					</script>    
+
+</head><!--/head-->
+
+<body class="homepage">
+
+    <header id="header">
+        <div class="top-bar">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-6 col-xs-6">
+                        <div class="top-number"><p><i class="fa fa-phone-square"></i>  +0123 456 70 90</p></div>
+                    </div>
+                    <div class="col-sm-6 col-xs-6 soc-mob">
+                       <div class="social">
+                            <ul class="social-share">
+                                <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                                <li><a href="#"><i class="fa fa-linkedin"></i></a></li> 
+                                <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
+                                <li><a href="#"><i class="fa fa-skype"></i></a></li>
+                            </ul>
+                       </div>
+                    </div>
+                </div>
+            </div><!--/.container-->
+        </div><!--/.top-bar-->
+
+        <nav class="navbar navbar-inverse" role="banner">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="index.html"><img src="images/logo.png"  alt="logo"></a>
+                </div>
+				
+                <div class="collapse navbar-collapse navbar-right">
+                    <ul class="nav navbar-nav">
+                        <li><a href="index.html">Home</a></li>
+                        <li><a href="instantly-ageless.html">Instantly Ageless</a></li>
+                        <li><a href="why-evolution.html">why Evolution</a></li>
+                        <li><a href="product.html">Products</a></li>
+                        <li><a href="contact.html">Contact US</a></li>                           
+                    </ul>
+                </div>
+            </div><!--/.container-->
+        </nav><!--/nav-->
+		
+    </header><!--/header-->
+	
+	
+	
+		<div id="index" ui-view="" autoscroll="true" class="ng-scope"><!-- ngIf: model.showCmsEditor -->
+				<div class="hidden-xs hidden-sm visible-md visible-lg ng-scope" ></div>
+		<!-- uiView:  --><div ui-view="" id="default" autoscroll="true" class="ng-scope"><div class="header-layout-container ng-scope">
+		   
+		
+		
+			<!-- uiView:  -->
+			<div ui-view="" class="page-content ng-scope" autoscroll="true">
+			
+			<div id="front-layout-content" class="ng-scope">
+		
+		
+		
+		
+			<!-- uiView:  -->
+			<div ui-view="" autoscroll="true" class="ng-scope">
+			<div class="luminesce ng-scope">
+			
+			
+			
+			<!-- banner -->
+			<div cms-background-image="luminesceBackground" fullscreen="true"  class="overlay-container ng-isolate-scope fixed-background cms-background-image fullscreen-image" style="background-image: url(images/slider/bg3.jpg);"">
+				<div class="overlay-content">
+					<div class="overlay-content-left">
+						<div class="overlay-image-container">
+							<div class="media-container cms-image ng-isolate-scope" ng-class="{&#39;luminesceFamily&#39;: !fullscreen}" cms-image="luminesceFamily"  alt="" class-name="product-image" src="images/luminesce-family-group.png">
+			<!-- ngIf: canEdit() -->
+			<img  class="luminesceFamily product-image" src="images/luminesce-family-group.png">
+		</div>
+							
+							<section>
+								<h1  class="ng-scope">ILUMUFACE</h1>
+								<h2 cms-translation="overlayContentHeader" class="ng-scope">Redefining Youth</h2>
+								<div class="margin-top-10">
+									<a class="btn btn-lg btn-animated default inline-white-button ng-isolate-scope" scroll-to="section-1" offset="105"><span cms-translation="overlayContentButton1" class="ng-scope">LEARN MORE</span></a>
+									<a class="btn btn-lg btn-animated default inline-white-button ng-isolate-scope" scroll-to="section-2" offset="105"><span cms-translation="overlayContentButton2" class="ng-scope">BUY NOW</span></a>
+								</div>
+							</section>
+						</div>
+					</div>
+				</div>
+			</div>
+			
+			
+			
+			
+			
+			
+			<!-- text details -->
+			<div id="section-1" class="section-1 content-space">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-4">
+							<div class="media-container cms-image ng-isolate-scope" ng-class="{&#39;luminesceFamily&#39;: !fullscreen}" cms-image="luminesceFamily"  alt="" src="images/instanlty-ageless.png">
+			<!-- ngIf: canEdit() -->
+			<img  class="luminesceFamily" src="images/instanlty-ageless.png">
+		</div>
+						</div>
+						
+						<div class="col-md-8">
+							<div class="space-30"></div>
+							<p cms-translation="learnMoreParagraph1" class="product-title ng-scope"><span class="ng-scope">Within two minutes, Instantly Ageless </span><span class="callout ng-scope">immediately reduces</span><span class="ng-scope"> the appearance of under-eye bags, fine lines, wrinkles and pores.
+							</span></p>
+							<p cms-translation="learnMoreParagraph2" class="product-summary ng-scope">This specifically designed micro cream targets areas that have lost elasticity — revealing visibly toned, lifted skin.</p>
+							<div class="space-30"></div>
+							<a class="btn btn-lg btn-animated ng-isolate-scope" scroll-to="video" offset="105"><span cms-translation="instantResults" class="ng-scope">Want instant results? Learn how!</span></a>
+						</div>
+				
+					</div>
+				</div>
+			</div>
+		
+		
+		
+		
+		
+		
+		
+			<!-- video -->
+			<div id="video-banner" class="video-banner">
+				<img src="images/video-ilumu.png" style="width: 100%;">
+			</div>
+			
+			
+			
+			
+			<!--  diagramm area  --->
+			<div class="application-tips content-space">
+        <div class="container row">
+            <div class="col-md-6">
+                <h2 cms-translation="section1Header" class="ng-scope">Application tips for target areas:</h2>
+                <div class="row">
+                    <div class="space-50"></div>
+                    <div class="col-md-6">
+                        <h3 cms-translation="section1Tip1Header" class="ng-scope">1. Forehead Wrinkles</h3>
+                        <p cms-translation="section1Tip1Paragraph" class="ng-scope">Lightly dab cream across the entire forehead, not just the areas with lines.</p>
+                        <div class="space-30"></div>
+                        <h3 cms-translation="section1Tip2Header" class="ng-scope">2. Eyebrows</h3>
+                        <p cms-translation="section1Tip2Paragraph" class="ng-scope">For an instant “brow lift,” apply just above your natural eyebrow line.</p>
+                        <div class="space-30"></div>
+                        <h3 cms-translation="section1Tip3Header" class="ng-scope">3. Hooded Eyes</h3>
+                        <p cms-translation="section1Tip3Paragraph" class="ng-scope">Apply just below your natural eyebrow; do not apply on the movable eyelid.</p>
+                        <div class="space-30"></div>
+                    </div>
+                    <div class="col-md-6">
+                        <h3 cms-translation="section1Tip4Header" class="ng-scope">4. Under-Eye Bags &amp; Crow’s Feet</h3>
+                        <p cms-translation="section1Tip4Paragraph" class="ng-scope">Lightly dab cream on the entire under-eye area, from lower eyelashes to upper cheek, and inner to outer corners.</p>
+                        <div class="space-30"></div>
+                        <h3 cms-translation="section1Tip5Header" class="ng-scope">5. Facial Pores</h3>
+                        <p cms-translation="section1Tip5Paragraph" class="ng-scope">Gently pat cream sparingly to target areas.</p>
+                        <div class="space-30"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="media-container cms-image ng-isolate-scope" src="images/ia-diagram-half-face-05.png">
+    <!-- ngIf: canEdit() -->
+    <img class="instantlyAgelessTips " src="images/ia-diagram-half-face-05.png">
+</div>
+            </div>
+        </div>
+    </div>
+			
+			
+			
+			
+			
+			
+			
+			<!-- cellular rejuvenation   ist products -->
+			<div ng-repeat="product in products" id="LUMINESCE" ng-class-odd="&#39;alternate&#39;" fo-product="" options="{product: product}" class="ng-scope ng-isolate-scope alternate" style=""><div class="fo-product">
+			<div class="container">
+				<div class="col-xs-12 col-md-6 product-image-container">
+					<img class="main-image"  src="images/IA_SachetsMagneticBox.jpg">
+				</div>
+				<div class="col-xs-12 col-md-6">
+					<h4 class="product-title ng-binding">INSTANTLY AGELESS ™ (SACHETS)</h4>
+					<div class="product-price ng-binding">$74.95</div>
+					<div class="product-add-to-cart-container">
+						<a ng-class="getAddToCartClass()" class="btn btn-lg btn-default btn-animated" ng-click="addToCart(product)">
+							<span cms-translation="addToCart" class="ng-scope">
+									ADD TO CART
+								</span>
+						</a>
+						<!-- ngIf: hasProductInCart() -->
+					</div>
+					<div fo-collapsable-description="" options="productOptions" class="ng-isolate-scope"><div>
+			<!-- ngRepeat: section in options.sections --><div class="fo-collapsable-description ng-scope" ng-repeat="section in options.sections">
+				<div class="collapsable-description-title" ng-click="toggleExpandCollapse(section)">
+					<!-- ngIf: section.titleCmsOptions==undefined -->
+					<!-- ngIf: section.titleCmsOptions --><div ng-if="section.titleCmsOptions" class="ng-scope">
+						<div id="flip11" class="ng-scope-arrow">PRODUCT</div>
+					</div><!-- end ngIf: section.titleCmsOptions -->
+				</div>
+				
+				
+				<!-- description -->
+				<div style="display:none;" id="panel11" >
+					<span ng-if="section.descriptionCmsOptions==undefined" ng-bind-html="section.description" class="ng-binding ng-scope">Instantly Ageless™ is a powerful anti-wrinkle microcream that works quickly and effectively to diminish the visible signs of aging. Instantly Ageless™ revives the skin and minimizes the appearance of fine lines and pores for a flawless finish.
+<br><div class="prodSize">SIZE: 50 – 0.3 mL sachets (15 mL total)</div>
+<br>Limit of 25 boxes per Distributor per 30 days. Retail sales limited to 10 per person per 30 days.
+<br></span>
+				</div>
+				
+				
+			</div><!-- end ngRepeat: section in options.sections -->
+			
+			
+			
+			
+			<div class="fo-collapsable-description ng-scope" ng-repeat="section in options.sections">
+				<div class="collapsable-description-title" ng-click="toggleExpandCollapse(section)">
+					<!-- ngIf: section.titleCmsOptions==undefined -->
+					<!-- ngIf: section.titleCmsOptions --><div ng-if="section.titleCmsOptions" class="ng-scope">
+						<div id="flip12" class="ng-scope-arrow" >BENEFITS</div>
+					</div><!-- end ngIf: section.titleCmsOptions -->
+				</div>
+				
+				
+				<!-- description -->
+				<div style="display:none;" id="panel12" >
+					<span ng-if="section.descriptionCmsOptions==undefined" ng-bind-html="section.description" class="ng-binding ng-scope">Immediately reduces the appearance of under-eye bags<br>
+Visibly diminishes the appearance of fine lines and wrinkles<br>
+Helps tighten, firm and lift the appearance of sagging skin<br>
+Helps to minimize the appearance of pores for a flawless finish<br></span>
+				</div>
+				
+				
+			</div><!-- end ngRepeat: section in options.sections -->
+			
+			
+			
+			
+			<div class="fo-collapsable-description ng-scope" ng-repeat="section in options.sections">
+				<div class="collapsable-description-title" ng-click="toggleExpandCollapse(section)">
+					<!-- ngIf: section.titleCmsOptions==undefined -->
+					<!-- ngIf: section.titleCmsOptions --><div ng-if="section.titleCmsOptions" class="ng-scope">
+						<div id="flip14" class="ng-scope-arrow" class="ng-scope">USAGE</div>
+					</div><!-- end ngIf: section.titleCmsOptions -->
+				</div>
+				
+				<!-- description -->
+				<div style="display:none;" id="panel14" >
+					<span ng-if="section.descriptionCmsOptions==undefined" ng-bind-html="section.description" class="ng-binding ng-scope">Gently massage the packet to ensure ingredients are completely combined, as minor separation can naturally occur.<br>
+For best results, use an eyeshadow sponge or brush and apply sparingly.<br>
+Remember, less is more. Use less than a pea-sized amount; you can always apply more if needed.<br>
+Once applied, remain expressionless until dry. Fanning the area helps speed up drying time.<br>
+Once dry, check areas that you may have missed and lightly reapply.   <br>
+If there is white residue, you’ve applied too much. To correct, gently pat the white residue edges with a damp cotton swab.<br>
+If applying foundation, use oil-free formulas and take care to minimize disturbing the area. For longer-lasting results, use alone or apply powder foundation.<br>
+Practice! Just like all makeup application, practice makes perfect in creating a more beautiful you.<br></span>
+				</div>
+				
+				
+			</div><!-- end ngRepeat: section in options.sections -->
+		</div>
+		</div>
+				</div>
+			</div>
+		</div>
+		</div>
+		
+		
+
+		
+		</div></div>
+		</div>
+		</div>
+		
+		</div>
+		</div>
+		
+		</div>
+	
+	
+	
+
+
+
+
+	<!--- footer -->
+    <footer id="footer" class="midnight-blue">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-6">
+                    Ilumuface © 2016 All Rights Reserved
+                </div>
+                <div class="col-sm-6">
+                    <ul class="pull-right">
+                        <li><a href="#">Home</a></li>
+                        <li><a href="#">About Us</a></li>
+                        <li><a href="#">Contact Us</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </footer>
+	<!--/#footer-->
+	
+
+	<!---  bootstrap JS  --->	
+	<script src="js/jquery.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+	
+	
+
+	
+</body>
+
+</html>
