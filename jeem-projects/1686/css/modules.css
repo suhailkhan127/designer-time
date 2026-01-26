@@ -1,0 +1,157 @@
+/*
+
+
+.top {
+	float:right;
+	height:auto;
+	width:196px;
+	margin:37px 0px 0px 0px;
+	padding:0px;
+
+}
+.top .search {
+	float:right;
+	height:30px;
+	width:196px;
+	margin:0px 0px 0px 0px;
+	padding:0px;
+	border:0px solid #373636;
+	background:url(../images/search_bg.png) no-repeat;
+
+}
+.top .search .form {
+	float:left;
+	margin:0px;
+	padding:1px;
+	height: 30px;
+	border:none;
+	
+}
+.top .search .inputbox 
+{
+	float:left;
+	padding:5px;
+	width:160px;
+	height:30px;
+	margin:0px 0 0 0;
+	color:#000;
+	padding:0px 0 0 5px;
+	border:none;
+	background:none;
+	outline: none;
+	line-height: 30px;
+	font-size: 14px;
+	} 
+.top .search .btn 
+{
+	float:right;
+	width:27px;
+	height:28px;
+	margin:1px 0px 0 0;
+	padding:0px 0 0px 0;
+	color:#FFFFFF;
+	border:none;
+	text-align:center;
+	outline: none;
+	text-transform: uppercase;
+	background:url(../images/quick_find.png) no-repeat;
+	} 
+.top .search .btn:hover
+{
+	background:url(../images/quick_find.png) no-repeat; 
+	} 
+
+
+
+.login-box { float:left; margin-left:5px; min-height:200px; border:0px solid blue; }
+.login-box .content { float:left; width:100%; border:0px solid gray;    }
+ 
+.login-box  h1 {    
+	float:left;
+ 	height:auto;
+	margin:5px 0px 0 0px;
+	padding:0px 0px 7px 0px;
+	font-size:20px;
+	color:#120a09;
+	font-family:Trebuchet MS;
+	text-transform:uppercase;
+	border-bottom:1px solid #f37d00;
+}
+ 
+.login-box fieldset { width:250px; margin:0px; padding:0px;  border:0px solid red; }
+.login-box fieldset .inputbox { float:right; border:0px solid black; }
+ilogin-box #form-login-remember { border:0px solid pink;}
+.blk-txt { color:#000000;}
+.blk-txt a { color:#000000;}
+
+
+
+.newsletter_box {
+	float:left;
+	width:295px;
+	padding:0;
+	margin:7px 0px 0px 0px;
+
+
+
+
+}
+.newsletter_box h2 {
+	padding: 0px 0px 0px 0px;
+	margin: 0px 0 10px 0;
+	color: #fff;
+	font-size: 22px;
+	font-family: 'Homenaje', sans-serif;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	font-weight: normal;
+}
+.newsletter_box p {
+	float:left;
+	width:230px;
+	padding:0;
+	font-family:Tahoma;
+	font-size:12px;
+	margin:0px 0px 10px 0px;
+	color:#000000;
+}
+.newsletter_box .acymailing_form {
+	float:left;
+	width: auto;
+	height:auto;
+}
+.newsletter_box input {
+	float: left;
+	width: 200px;
+	height: 34px;
+	border: none;
+	color: #fff;
+	margin: 0px 0px 0px 0px;
+	background: #290d00;
+	padding: 0 0 0 6px;
+	line-height: 34px;
+
+}
+
+.newsletter_box .newsletter_btn {
+	float: right;
+	text-align: left;
+	width: 67px;
+	height: 34px;
+	padding: 3px 0px 0px 12px;
+	margin: 0px 2px 0px 0px;
+	background: #0c97e1;
+	color: #290d00;
+	font-family: 'Homenaje', sans-serif;
+	text-transform: capitalize;
+	font-size: 18px;
+	background: url(../images/subscribe.png) no-repeat;
+}
+
+.newsletter_box .newsletter_btn:hover {
+	background: url(../images/subscribe.png) no-repeat;
+	color: #642203;
+}
+
+/****NEWSLETTER BOX END******
+*/
