@@ -1,0 +1,10 @@
+.title-uppercase{
+	margin: 0 0 1rem !important;
+}
+ nav ul li{
+ 	display: inline;
+ 	margin: 10px;
+ }
+ nav ul{
+ 	padding-left: 8px;
+ }

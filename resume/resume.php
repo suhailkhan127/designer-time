@@ -1,0 +1,492 @@
+<!DOCTYPE HTML>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="shortcut icon" href="images/favicon.png">
+    <title>Suhail Ahmed Khan | Senior Frontend Developer / UI/UX Designer</title>
+
+    <link href="css/style.css" rel="stylesheet" media="screen">
+</head>
+
+<body class="body-full-page">
+<?php include('includes/header.php') ?>
+    <div class="pagepiling">
+        <div data-anchor="page1" class="pp-scrollable text-white section section-1">
+            <div class="scroll-wrap">
+                <div class="section-bg" style="background-image:url(images/bg/bg1.jpg);"></div>
+                <div class="scrollable-content">
+                    <div class="vertical-centred">
+                        <div class="boxed boxed-inner">
+                            <div class="vertical-title hidden-xs hidden-sm"><span>Introduction</span></div>
+                            <div class="boxed">
+                                <div class="container">
+                                    <div class="intro">
+                                        <div class="row">
+                                            <div class="col-md-8 col-lg-7">
+                                                <p class="subtitle-top" style="font-size: 30px">hi there!</p>
+                                                <h1 class="display-2 text-white"><span class="text-primary">my name is</span> <br> Suhail Ahmed.</h1>
+                                                <div class="hr-bottom"></div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div data-anchor="page2" class="pp-scrollable section section-2">
+            <div class="scroll-wrap">
+                <div class="scrollable-content">
+                    <div class="vertical-centred">
+                        <div class="boxed boxed-inner">
+                            <div class="vertical-title text-dark hidden-xs hidden-sm"><span>what I do</span></div>
+                            <div class="boxed">
+                                <div class="container">
+                                    <div class="intro">
+                                        <div class="row">
+                                            <div class="col-md-5 col-lg-5">
+                                                <p class="subtitle-top text-dark">About me</p>
+                                                <h2 class="title-uppercase">My mission is to<br> <span class="text-primary">design &amp; develop</span> the best Websites around</h2> 
+                                                I’ve been working as a UI Designer & Front End Developer for the past 8 years or so, working on multiple frameworks as well as online applications. My role is to visualize, design and develop the GUI. 
+                                            </div>
+                                            <div class="col-md-6 col-lg-5 col-md-offset-1 col-lg-offset-2">
+                                                <div class="progress-bars">
+                                                    <div class="clearfix">
+                                                        <div class="number pull-left">Front End Development</div>
+                                                        <div class="number pull-right">92%</div>
+                                                    </div>
+                                                    <div class="progress">
+                                                        <div class="progress-bar" role="progressbar" style="width: 92%" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100"></div>
+                                                    </div>
+                                                    
+                                                    <div class="clearfix">
+                                                        <div class="number pull-left">UI/UX Design</div>
+                                                        <div class="number pull-right">85%</div>
+                                                    </div>
+                                                    <div class="progress">
+                                                        <div class="progress-bar" role="progressbar" style="width: 85%" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100"></div>
+                                                    </div>
+
+                                                    <div class="clearfix">
+                                                        <div class="number pull-left">CMS/Frameworks</div>
+                                                        <div class="number pull-right">72%</div>
+                                                    </div>
+                                                    <div class="progress">
+                                                        <div class="progress-bar" role="progressbar" style="width: 72%" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100"></div>
+                                                    </div>
+
+                                                    <div class="clearfix">
+                                                        <div class="number pull-left">WordPress</div>
+                                                        <div class="number pull-right">79%</div>
+                                                    </div>
+                                                    <div class="progress">
+                                                        <div class="progress-bar" role="progressbar" style="width: 79%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+                                                    </div>
+
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+   
+        <div data-anchor="page3" class="pp-scrollable text-white section section-3">
+            <div class="scroll-wrap">
+                <div class="bg-changer">
+                    <div class="section-bg" style="background-image:url(images/bg/bg2.jpg);"></div>
+                    <div class="section-bg" style="background-image:url(images/bg/bg2-2.jpg);"></div>
+                    <div class="section-bg" style="background-image:url(images/bg/bg2-3.jpg);"></div>
+                    <div class="section-bg" style="background-image:url(images/bg/bg2-4.jpg);"></div>
+                    <div class="section-bg" style="background-image:url(images/bg/bg2-5.jpg);"></div>
+                    <div class="section-bg" style="background-image:url(images/bg/bg2-6.jpg);"></div>
+                </div>
+                <div class="scrollable-content">
+                    <div class="vertical-centred">
+                        <div class="boxed boxed-inner">
+                            <div class="vertical-title hidden-xs hidden-sm"><span>my works</span></div>
+                            <div class="boxed">
+                                <div class="container">
+                                    <div class="intro">
+                                        <div class="row">
+                                            <div class="col-md-12">
+                                                <h2 class="title-uppercase text-white" style="margin-bottom: 1.3rem">Featured works</h2>
+                                                <div class="row-project-box row">
+                                                    <div class="col-project-box col-sm-6 col-md-4">
+                                                        <a target="_blank" href="http://suhailahmed.com/jeem-projects/1718/" class="project-box proj-2">
+                                                            <img src="images/portfolio/jeem/jeem-projects28.jpg">
+                                                        </a>
+                                                    </div>
+                                                    <div class="col-project-box col-sm-6 col-md-4">
+                                                        <a target="_blank" href="https://appedology.com/gamedevelopment/" class="project-box proj-2">
+                                                            <img src="images/portfolio/protege/gamedevelopment.jpg">
+                                                        </a>
+                                                    </div>
+                                                     <div class="col-project-box col-sm-6 col-md-4">
+                                                        <a target="_blank" href="http://suhailahmed.com/jeem-projects/1748/" class="project-box proj-2">
+                                                            <img src="images/portfolio/jeem/jeem-projects.jpg">
+                                                        </a>
+                                                    </div>
+                                                    <div class="col-project-box col-sm-6 col-md-4">
+                                                        <a target="_blank" href="http://jeemsolutions.com/uplush/" class="project-box proj-2">
+                                                            <img src="images/portfolio/uplush.jpg">
+                                                        </a>
+                                                    </div>
+                                                   <div class="col-project-box col-sm-6 col-md-4">
+                                                        <a target="_blank" href="http://www.theburgercity.com/" class="project-box proj-2">
+                                                            <img src="images/portfolio/theburgercity.jpg">
+                                                        </a>
+                                                    </div>
+                                                    <!-- <div class="col-project-box col-sm-6 col-md-4">
+                                                        <a target="_blank" href="#" class="project-box proj-2">
+                                                            <img src="images/portfolio/inifinity.jeemsolutions.jpg">
+                                                        </a>
+                                                    </div> -->
+                                                </div>
+                                                <a href="portfolio.php" class="h5 link-arrow text-white">view all projects <i class="icon icon-chevron-right"></i></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div data-anchor="page4" class="pp-scrollable section section-4">
+            <div class="scroll-wrap">
+                <div class="scrollable-content">
+                    <div class="vertical-centred">
+                        <div class="boxed boxed-inner">
+                            <div class="vertical-title text-dark hidden-xs hidden-sm"><span>Services</span></div>
+                            <div class="boxed">
+                                <div class="container">
+                                    <div class="intro">
+                                        <div class="row">
+                                            <div class="col-md-5 col-lg-5">
+                                                <p class="subtitle-top text-dark">My services</p>
+                                                <h2 class="title-uppercase">I like <span class="text-primary">to make</span> things easy and fun using</h2>
+                                                <ul class="service-list  col-xs-12">
+                                                    <li><span class="text-dark">Frontend:</span> HTML5, CSS3, SASS, LESS, Tailwind CSS, Bootstrap, Foundation, SEO Basics</li>
+                                                    <li><span class="text-dark">JavaScript:</span> JavaScript (ES6+), JQuery, Vue.js</li>
+                                                    <li><span class="text-dark">UI/UX:</span> Figma, Adobe XD, Photoshop, Illustrator, Wire Framing, Prototyping, Mobile Apps Design</li>
+                                                    <li><span class="text-dark">Tools:</span> Git, GitLab, Bitbucket</li>
+                                                    <li><span class="text-dark">CMS / Frameworks:</span> WordPress, Concrete5, Laravel, CodeIgniter</li>
+                                                </ul>
+                                            </div>
+                                            <div class="col-md-6 col-lg-5 col-md-offset-1 col-lg-offset-2">
+                                                <div class="dots-image-2">
+                                                    <img alt="" class="img-responsive" src="images/suhail.jpg">
+                                                    <div class="dots"></div>
+                                                    <div class="experience-info">
+                                                        <div class="number">8</div>
+                                                        <div class="text">Years
+                                                            <br>Working
+                                                            <br>Experience</div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div data-anchor="page5" class="pp-scrollable text-white section section-6">
+            <div class="scroll-wrap">
+                <div class="section-bg" style="background-image:url(images/bg/bg3.jpg);"></div>
+                <div class="scrollable-content">
+                    <div class="vertical-centred">
+                        <div class="boxed boxed-inner">
+                            <div class="vertical-title hidden-xs hidden-sm"><span>Resume</span></div>
+                            <div class="boxed">
+                                <div class="container">
+                                    <div class="intro">
+                                        <div class="row">
+                                            <div class="col-md-6">
+                                                <div class="col-resume">
+                                                    <h6 class="resume-title">Education & Certification</h6>
+                                                    <div class="resume-content">
+                                                        <div class="resume-inner">
+                                                            <div class="resume-row">
+                                                                <h6 class="resume-type">SPECIALIZATION COURSE</h6>
+                                                                <p class="resume-study">Web Designing</p>
+                                                                <p class="resume-date text-primary">From: Arena Multi Media</p>
+                                                                
+                                                            </div>
+                                                            <div class="resume-row">
+                                                                <h6 class="resume-type">BA (HONS)</h6>
+                                                                <!-- <p class="resume-study">University of studies, Poland, Cracow</p> -->
+                                                                <p class="resume-date text-primary">From: Sindh University</p>
+                                                                
+                                                            </div>
+                                                            <div class="resume-row">
+                                                                <h6 class="resume-type">INTERMEDIATE</h6>
+                                                                <!-- <p class="resume-study">University of studies, Poland, Cracow</p> -->
+                                                                <p class="resume-date text-primary">From: Hyderabad</p>
+                                                                
+                                                            </div>
+                                                            <div class="resume-row">
+                                                                <h6 class="resume-type">MATRICULATION</h6>
+                                                                <!-- <p class="resume-study">University of studies, Poland, Cracow</p> -->
+                                                                <p class="resume-date text-primary">From: Hyderabad</p>
+                                                                
+                                                            </div>
+                                                            <br><br>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-6">
+                                                <div class="col-resume">
+                                                    <h6 class="resume-title">Professional Experience</h6>
+                                                    <div class="resume-content">
+                                                        <div class="resume-inner">
+                                                            <div class="resume-row">
+                                                                <h6 class="resume-type">Extreme Commerce</h6>
+                                                                <p class="resume-study">Senior Frontend Developer</p>
+                                                                <p class="resume-date text-primary">Jan 2022 - Present</p>
+                                                            </div>
+                                                            <div class="resume-row">
+                                                                <h6 class="resume-type">TIO International</h6>
+                                                                <p class="resume-study">Senior Frontend Developer</p>
+                                                                <p class="resume-date text-primary">Dec 2018 - Dec 2021</p>
+                                                            </div>
+                                                            
+                                                            <div class="resume-row">
+                                                                <h6 class="resume-type">Protégé Global</h6>
+                                                                <p class="resume-study">Senior UI Designer / Frontend Developer</p>
+                                                                <p class="resume-date text-primary">May 2018 - Dec 2018</p>
+                                                            </div>
+                                                            <div class="resume-row">
+                                                                <h6 class="resume-type">Symbios</h6>
+                                                                <p class="resume-study">UI Designer & UI Developer</p>
+                                                                <p class="resume-date text-primary">May 2017 - Apr 2018</p>
+                                                            </div>
+                                                            <!-- <div class="resume-row">
+                                                                <h6 class="resume-type">PNT Global</h6>
+                                                                <p class="resume-study">SENIOR WEB DESIGNER</p>
+                                                                <p class="resume-date text-primary" style="margin-bottom: 3.5rem;">Apr 12 - Dec 2012</p>
+                                                            </div> -->
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div data-anchor="page6" class="pp-scrollable section section-4">
+            <div class="scroll-wrap">
+                <div class="scrollable-content">
+                    <div class="vertical-centred">
+                        <div class="boxed boxed-inner">
+                            <div class="vertical-title text-dark hidden-xs hidden-sm"><span>My Clients</span></div>
+                            <div class="boxed">
+                                <div class="container">
+                                    <div class="intro overflow-hidden">
+                                        <div class="row">
+                                            <div class="col-md-12">
+                                                <!-- row 1 -->
+                                                <div class="row-partners flex no-flex-xs">
+                                                    <div class="col-partner">
+                                                        <div class="partner-inner">
+                                                        <a href="https://www.appedology.com/gamedevelopment/" target="_blank"><img alt="" src="images/partners/appedology.png"></a></div>
+                                                    </div>
+                                                    <div class="col-partner">
+                                                        <div class="partner-inner"><a href="http://waniya.pk/uae/" target="_blank"><img alt="" src="images/partners/waniya.png"></a></div>
+                                                    </div>
+                                                    <div class="col-partner">
+                                                        <div class="partner-inner">
+                                                        <a href="http://bm360.com.pk/" target="_blank"><img alt="" src="images/partners/bm360.png"></a></div>
+                                                    </div>
+                                                    <div class="col-partner">
+                                                        <div class="partner-inner">
+                                                        <a href="https://www.mamooinpakistan.com/" target="_blank"><img alt="" src="images/partners/mamoo.png"></a></div>
+                                                    </div>
+                                                    
+                                                </div>
+                                                <!-- row2 -->
+                                                <div class="row-partners flex no-flex-xs">
+                                                    <div class="col-partner">
+                                                        <div class="partner-inner">
+                                                        <a href="http://fastone.us/" target="_blank"><img alt="" src="images/partners/fastone.png"></a></div>
+                                                    </div>
+                                                    <div class="col-partner">
+                                                        <div class="partner-inner"><a href="http://raksterz.com/" target="_blank"><img alt="" src="images/partners/raksterz.png"></a></div>
+                                                    </div>
+                                                    <div class="col-partner">
+                                                        <div class="partner-inner"><a href="https://videoatclick.com/creative1/" target="_blank"><img alt="" src="images/partners/writercart.png"></a></div>
+                                                    </div>
+                                                    <div class="col-partner">
+                                                        <div class="partner-inner"><a href="http://www.garagedoormartinc.com/" target="_blank"><img alt="" src="images/partners/garagedoor.png"></a></div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div data-anchor="page7" class="pp-scrollable text-white section section-6">
+            <div class="scroll-wrap">
+                <div class="section-bg" style="background-image:url(images/bg/bg4.jpg);"></div>
+                <div class="scrollable-content">
+                    <div class="vertical-centred">
+                        <div class="boxed boxed-inner">
+                            <div class="vertical-title hidden-xs hidden-sm"><span>testimonials</span></div>
+                            <div class="boxed">
+                                <div class="container">
+                                    <div class="intro">
+                                        <div class="row">
+                                            <div class="col-md-6 col-lg-5">
+                                                <span class="icon-quote ion-quote"></span>
+                                                <h2 class="title-uppercase text-white">creativity & dedication are things that I can provide for your project.</h2>
+                                            </div>
+                                            <div class="col-md-5 col-lg-5  col-md-offset-1 col-lg-offset-2">
+                                                <div class="review-carousel owl-carousel">
+                                                    <div class="review-carousel-item">
+                                                        <div class="text">
+                                                            <p>" I have worked with Suhail on two complex projects and in both cases, the work was done on time, on budget, and with a high degree of professionalism.
+                                                                <br>
+    
+                                                            Suhail not only did exceptional work based on the specs we gave him for each project, but he also gave input on how to make the end product even better and cared about how users would engage with the builds. I will be using Suhail again in the future and would highly recommend his services to anyone."</p>
+                                                        </div>
+                                                        <div class="review-author">
+                                                            <div class="author-name">David & Elisa</div>
+                                                            <i>PetPlate</i>
+                                                        </div>
+                                                    </div>
+                                                    <div class="review-carousel-item">
+                                                        <div class="text">
+                                                            <p>" We have the fortune of working with Suhail on a very regular basis. Every single project is done in a timely fashion and is delivered exactly as is outlined. Beyond that, his development skills and expertise make him an invaluable part of our process. We absolutely offer our highest possible recommendation."</p>
+                                                        </div>
+                                                        <div class="review-author">
+                                                            <div class="author-name">Douglas Berger</div>
+                                                            <i>Red Six Media</i>
+                                                        </div>
+                                                    </div>
+                                                    <div class="review-carousel-item">
+                                                        <div class="text">
+                                                            <p>"Working with Suhail was better than expected and we had really high expectations. He is an incredibly talented developer but what really makes him stand out is his work ethic and steady approach. Time after time, and without us asking, he added enhancements and improvements that resulted in a better end product for us and our clients."</p>
+                                                        </div>
+                                                        <div class="review-author">
+                                                            <div class="author-name">Adam Houston</div>
+                                                            <i>Bridge Creative</i>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div data-anchor="page8" class="pp-scrollable section section-6">
+            <div class="scroll-wrap">
+                <div class="scrollable-content">
+                    <div class="vertical-centred">
+                        <div class="boxed boxed-inner">
+                            <div class="vertical-title text-dark hidden-xs hidden-sm"><span>contact</span></div>
+                            <div class="boxed">
+                                <div class="container">
+                                    <div class="intro overflow-hidden">
+                                        <div class="row">
+                                            <div class="col-md-12">
+                                                <h2 class="title-uppercase" style="margin-bottom: -3rem">Get In Touch</h2>
+                                                <div class="contact-info">
+                                                    <form class="js-form" novalidate="novalidate">
+                                                        <div class="row">
+                                                            <div class="form-group col-sm-6">
+                                                                <input type="text" name="name" required="" placeholder="Name*" aria-required="true">
+                                                            </div>
+                                                            <div class="form-group col-sm-6">
+                                                                <input type="email" name="email" required="" placeholder="Email*">
+                                                            </div>
+                                                            <div class="form-group col-sm-12">
+                                                                <input type="text" name="subject"  placeholder="Subject (Optinal)">
+                                                            </div>
+                                                            <div class="form-group col-sm-12">
+                                                                <textarea name="message" required="" placeholder="Message*" aria-required="true"></textarea>
+                                                            </div>
+                                                            <div class="col-sm-12">
+                                                                <button type="submit" class="btn">Post Comment</button>
+                                                            </div>
+                                                        </div>
+                                                    </form>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- <div id="success" class="modal modal-message fade" role="dialog">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <span class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></span>
+                    <h2 class="modal-title">Thank you</h2>
+                    <p class="modal-subtitle">Your message is successfully sent...</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="error" class="modal modal-message fade" role="dialog">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <span class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></span>
+                    <h2 class="modal-title">Sorry</h2>
+                    <p class="modal-subtitle"> Something went wrong </p>
+                </div>
+            </div>
+        </div>
+    </div> -->
+
+    <script src="js/jquery.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/smoothscroll.js"></script>
+    <script src="js/jquery.validate.min.js"></script>
+    <script src="js/owl.carousel.min.js"></script>
+    <script src="js/jquery.pagepiling.js"></script>
+
+    <script src="js/scripts.js"></script>
+</body>
+
+</html>

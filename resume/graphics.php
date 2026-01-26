@@ -1,0 +1,1738 @@
+<!DOCTYPE HTML>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+
+    <!-- Portfolio Scripts -->
+    <link rel="stylesheet" id="sans-css" href="css/portfolio.css" type="text/css" media="screen" /> 
+    <script type='text/javascript' src='js/portfolio.js'></script>
+    <!-- /Portfolio Scripts -->
+
+    <!-- Fancybox-->
+    <link rel="stylesheet" href="css/jquery.fancybox.css">
+
+
+    <link rel="shortcut icon" href="images/favicon.png">
+    <title>Suhail Ahmed Khan | Senior Frontend Developer / UI/UX Designer</title>
+
+    <link href="css/style.css" rel="stylesheet" media="screen">
+</head>
+
+<body class="body-full-page port-2">
+<?php include('includes/header.php') ?>
+
+
+<div class="pagepiling">
+<div data-anchor="page3" class="pp-scrollable text-white section section-3">
+<div class="scroll-wrap">
+  <!-- onhover bg change -->
+  <!-- <div class="bg-changer" style="position: fixed !important;">
+    <div class="section-bg" style="background-image:url(images/bg/bg2.jpg);"></div>
+    <div class="section-bg" style="background-image:url(images/bg/bg2-2.jpg);"></div>
+    <div class="section-bg" style="background-image:url(images/bg/bg2-3.jpg);"></div>
+    <div class="section-bg" style="background-image:url(images/bg/bg2-4.jpg);"></div>
+    <div class="section-bg" style="background-image:url(images/bg/bg2-5.jpg);"></div>
+    <div class="section-bg" style="background-image:url(images/bg/bg2-6.jpg);"></div>
+  </div>   -->
+
+  <!-- SECTION -->
+  <div class="scrollable-content">
+  <div class="vertical-centred" style="padding-top: 9.5rem">
+  <div class="boxed boxed-inner">
+    <div class="vertical-title hidden-xs hidden-sm"><span>my works</span></div>
+    <div class="boxed">
+    <div class="container">
+
+      <h2 class="title-uppercase text-white" style="margin-bottom: 2rem">UI Works</h2>
+
+      <!-- graphics -->
+      <div id="content">
+      <div id="portfolio-wide">           
+      <section class="sans-portfolio">
+        <nav class="filter-controls">
+            <ul class="filter_nav clear">
+             <!--<li><a href="#all" title="All">All</a></li>-->
+                 <li><a href="#mockup" title="Mock Ups">Mock Ups</a></li>
+                 <li><a href="#apps" title="Mobile Apps">Mobile Apps</a></li>
+                 <li><a href="#logos" title="Logos">Logos</a></li>
+                 <li><a href="#flyers" title="Flyers">Flyers</a></li>
+            </ul>
+        </nav>  
+                    
+        <ul id="filter-portfolio" class="portfolio-grid clear gal">     
+
+
+            <!-- /////////////////////////////////////////////////// -->
+            
+                <!-- //     Mockup     // -->
+                
+            <!-- /////////////////////////////////////////////////// -->    
+
+            <li class="mockup all">
+                <div class="portfolio">
+                   <a class="fancybox"  href= "psd-work/mockup/freelance/thebunstory.jpg" >
+                   <img src="psd-work/mockup-thumbs/freelance/thebunstory-small.jpg">   
+                </div>
+            </li>  
+            <li class="mockup all">
+                <div class="portfolio">
+                   <a class="fancybox"  href= "psd-work/mockup/freelance/medmall.jpg" >
+                   <img src="psd-work/mockup-thumbs/freelance/medmall-small.jpg">
+                </div>
+            </li>
+            <li class="mockup all">
+                <div class="portfolio">
+                   <a class="fancybox"  href= "psd-work/mockup/freelance/raksterz.jpg" >
+                   <img src="psd-work/mockup-thumbs/freelance/raksterz-small.jpg">   
+                </div>
+            </li>
+            
+            <li class="mockup all">
+                <div class="portfolio">
+                   <a class="fancybox"  href= "psd-work/mockup/freelance/fastone.jpg" >
+                   <img src="psd-work/mockup-thumbs/freelance/fastone-small.jpg">  
+                </div>
+            </li>
+            <li class="mockup all">
+                <div class="portfolio">
+                   <a class="fancybox"  href= "psd-work/mockup/freelance/mip.jpg" >
+                   <img src="psd-work/mockup-thumbs/freelance/mip-small.jpg">    
+                </div>
+            </li>  
+            <li class="mockup all">
+                <div class="portfolio">
+                   <a class="fancybox"  href= "psd-work/mockup/freelance/greensolutions.jpg" >
+                   <img src="psd-work/mockup-thumbs/freelance/greensolutions-small.jpg">
+                </div>
+            </li>
+            
+
+            <li class="mockup all">
+                <div class="portfolio">
+                   <a class="fancybox"  href= "psd-work/mockup/freelance/ibe.jpg" >
+                   <img src="psd-work/mockup-thumbs/freelance/ibe-small.jpg">
+                </div>
+            </li>
+            <li class="mockup all">
+                <div class="portfolio">
+                   <a class="fancybox"  href= "psd-work/mockup/freelance/sweetwater.jpg" >
+                   <img src="psd-work/mockup-thumbs/freelance/sweetwater-small.jpg">   
+                </div>
+            </li>  
+               
+            <li class="mockup all">
+                <div class="portfolio">
+                   <a class="fancybox"  href= "psd-work/mockup/freelance/vulcan.jpg" >
+                   <img src="psd-work/mockup-thumbs/freelance/vulcan-small.jpg">     
+                </div>
+            </li> 
+            <li class="mockup all">
+                <div class="portfolio">
+                   <a class="fancybox"  href= "psd-work/mockup/freelance/ecom.jpg" >
+                   <img src="psd-work/mockup-thumbs/freelance/ecom-small.jpg">   
+                </div>
+            </li>  
+            <li class="mockup all">
+                <div class="portfolio">
+                   <a class="fancybox"  href= "psd-work/mockup/goodments.png" >
+                   <img src="psd-work/mockup-thumbs/goodments-small.jpg" /></a>    
+                </div>
+            </li>
+
+            
+            <!-- //     Freelance ( Mockup )   // -->    
+            <li class="mockup all">
+                <div class="portfolio">
+                   <a class="fancybox"  href= "psd-work/mockup/freelance/planify.jpg" >
+                   <img src="psd-work/mockup-thumbs/freelance/planify-small.jpg" /></a>    
+                </div>
+            </li>
+            
+            <li class="mockup all">
+                <div class="portfolio">
+                   <a class="fancybox"  href= "psd-work/mockup/freelance/hunar.jpg" >
+                   <img src="psd-work/mockup-thumbs/freelance/hunar-small.jpg" /></a>      
+                </div>
+            </li>
+            <li class="mockup all">
+                <div class="portfolio">
+                   <a class="fancybox"  href= "psd-work/mockup/freelance/uplush.jpg" >
+                   <img src="psd-work/mockup-thumbs/freelance/uplush-small.jpg" /></a>     
+                </div>
+            </li>
+ 
+            <li class="mockup all">
+                <div class="portfolio">
+                   <a class="fancybox"  href= "psd-work/mockup/freelance/hunar2.jpg" >
+                   <img src="psd-work/mockup-thumbs/freelance/hunar2-small.jpg" /></a>     
+                </div>
+            </li>
+
+            <li class="mockup all">
+                <div class="portfolio">
+                   <a class="fancybox"  href= "psd-work/mockup/freelance/cc-test.jpg" >
+                   <img src="psd-work/mockup-thumbs/freelance/cc-test-small.jpg" /></a>    
+                </div>
+            </li>
+            
+            <li class="mockup all">
+                <div class="portfolio">
+                   <a class="fancybox"  href= "psd-work/mockup/freelance/unbox2.jpg" >
+                   <img src="psd-work/mockup-thumbs/freelance/unbox2-small.jpg" /></a>     
+                </div>
+            </li>
+ 
+            <li class="mockup all">
+                <div class="portfolio">
+                   <a class="fancybox"  href= "psd-work/mockup/freelance/unbox1.jpg" >
+                   <img src="psd-work/mockup-thumbs/freelance/unbox1-small.jpg" /></a>     
+                </div>
+            </li>
+            
+            <li class="mockup all">
+                <div class="portfolio">
+                   <a class="fancybox"  href= "psd-work/mockup/freelance/bm360-5.jpg" >
+                   <img src="psd-work/mockup-thumbs/freelance/bm360-5-small.jpg" /></a>    
+                </div>
+            </li>
+            
+            <li class="mockup all">
+                <div class="portfolio">
+                   <a class="fancybox"  href= "psd-work/mockup/freelance/bm360-3.jpg" >
+                   <img src="psd-work/mockup-thumbs/freelance/bm360-3-small.jpg" /></a>    
+                </div>
+            </li>
+
+            <li class="mockup all">
+                <div class="portfolio">
+                   <a class="fancybox"  href= "psd-work/mockup/freelance/bm360-4.jpg" >
+                   <img src="psd-work/mockup-thumbs/freelance/bm360-4-small.jpg" /></a>    
+                </div>
+            </li>
+            
+            <li class="mockup all">
+                <div class="portfolio">
+                   <a class="fancybox"  href= "psd-work/mockup/freelance/bm360-2.jpg" >
+                   <img src="psd-work/mockup-thumbs/freelance/bm360-2-small.jpg" /></a>    
+                </div>
+            </li>
+            
+            <li class="mockup all">
+                <div class="portfolio">
+                   <a class="fancybox"  href= "psd-work/mockup/freelance/bm360-1.jpg" >
+                   <img src="psd-work/mockup-thumbs/freelance/bm360-1-small.jpg" /></a>    
+                </div>
+            </li>
+
+            <li class="mockup all">
+                <div class="portfolio">
+                   <a class="fancybox"  href= "psd-work/mockup/freelance/atan.jpg" >
+                   <img src="psd-work/mockup-thumbs/freelance/atan-small.jpg" /></a>   
+                </div>
+            </li>
+            
+            <li class="mockup all">
+                <div class="portfolio">
+                   <a class="fancybox"  href= "psd-work/mockup/freelance/hunar-elearning.jpg" >
+                   <img src="psd-work/mockup-thumbs/freelance/hunar-elearning-small.jpg" /></a>    
+                </div>
+            </li>
+
+            <li class="mockup all">
+                <div class="portfolio">
+                   <a class="fancybox"  href= "psd-work/mockup/freelance/zifan.jpg" >
+                   <img src="psd-work/mockup-thumbs/freelance/zifan-small.jpg" /></a>    
+                </div>
+            </li>
+            
+            <li class="mockup all">
+                <div class="portfolio">
+                   <a class="fancybox"  href= "psd-work/mockup/freelance/plutolabz.jpg" >
+                   <img src="psd-work/mockup-thumbs/freelance/plutolabz-small.jpg" /></a>      
+                </div>
+            </li>
+
+            <li class="mockup all">
+                <div class="portfolio type-portfolio">
+                   <a class="fancybox"  href= "psd-work/mockup/freelance/logocream.jpg" ><img src="psd-work/mockup-thumbs/freelance/logocream-small.jpg" /></a>     
+                </div>
+            </li>
+            
+            <li class="mockup all">
+                <div class="portfolio type-portfolio">
+                   <a class="fancybox"  href= "psd-work/mockup/freelance/shopdaily.jpg" ><img src="psd-work/mockup-thumbs/freelance/shopdaily-small.jpg" /></a>     
+                </div>
+            </li>
+            
+            <li class="mockup all">
+                <div class="portfolio type-portfolio">
+                   <a class="fancybox"  href= "psd-work/mockup/freelance/shopdaily2.jpg" ><img src="psd-work/mockup-thumbs/freelance/shopdaily2-small.jpg" /></a>   
+                </div>
+            </li>
+            
+            <li class="mockup all">
+                <div class="portfolio type-portfolio">
+                   <a class="fancybox"  href= "psd-work/mockup/freelance/unique-furniture.jpg" ><img src="psd-work/mockup-thumbs/freelance/unique-furniture-small.jpg" /></a>   
+                </div>
+            </li>
+            
+            <li class="mockup all">
+                <div class="portfolio type-portfolio">
+                   <a class="fancybox"  href= "psd-work/mockup/freelance/zamra-solutions.jpg" ><img src="psd-work/mockup-thumbs/freelance/zamra-solutions-small.jpg" /></a>     
+                </div>
+            </li>
+
+
+            <!-- //     Sharp Image ( Mockup )   // -->    
+            <li class="mockup all">
+                <div class="portfolio">
+                   <a class="fancybox"  href= "psd-work/mockup/sharpimage/writercart1.jpg" >
+                   <img src="psd-work/mockup-thumbs/sharpimage/writercart1-small.jpg" /></a>   
+                </div>
+            </li>
+            <li class="mockup all">
+                <div class="portfolio">
+                   <a class="fancybox"  href= "psd-work/mockup/sharpimage/writercart2.jpg" >
+                   <img src="psd-work/mockup-thumbs/sharpimage/writercart2-small.jpg" /></a>   
+                </div>
+            </li>
+            <li class="mockup all">
+                <div class="portfolio">
+                   <a class="fancybox"  href= "psd-work/mockup/sharpimage/writercart3.jpg" >
+                   <img src="psd-work/mockup-thumbs/sharpimage/writercart3-small.jpg" /></a>   
+                </div>
+            </li>
+
+            <li class="mockup all">
+                <div class="portfolio">
+                   <a class="fancybox"  href= "psd-work/mockup/sharpimage/writercart4.jpg" >
+                   <img src="psd-work/mockup-thumbs/sharpimage/writercart4-small.jpg" /></a>   
+                </div>
+            </li>
+
+            <li class="mockup all">
+                <div class="portfolio">
+                   <a class="fancybox"  href= "psd-work/mockup/sharpimage/writercart5.jpg" >
+                   <img src="psd-work/mockup-thumbs/sharpimage/writercart5-small.jpg" /></a>   
+                </div>
+            </li>
+            
+            <li class="mockup all">
+                <div class="portfolio">
+                   <a class="fancybox"  href= "psd-work/mockup/sharpimage/writercart6.jpg" >
+                   <img src="psd-work/mockup-thumbs/sharpimage/writercart6-small.jpg" /></a>   
+                </div>
+            </li>
+                        
+            
+            <!-- //     Digitonics ( Mockup )   // -->
+            <li class="mockup all">
+                <div class="portfolio">
+                   <a class="fancybox"  href= "psd-work/mockup/digitonics/bca.jpg" >
+                   <img src="psd-work/mockup-thumbs/digitonics/bca-small.jpg" /></a>   
+                </div>
+            </li>
+            
+            <li class="mockup all">
+                <div class="portfolio">
+                   <a class="fancybox"  href= "psd-work/mockup/digitonics/harshads-web.jpg" >
+                   <img src="psd-work/mockup-thumbs/digitonics/harshads-web-small.jpg" /></a>      
+                </div>
+            </li>
+            
+            <li class="mockup all">
+                <div class="portfolio">
+                   <a class="fancybox"  href= "psd-work/mockup/digitonics/livesinharmony.jpg" >
+                   <img src="psd-work/mockup-thumbs/digitonics/livesinharmony-small.jpg" /></a>    
+                </div>
+            </li>
+            
+            
+            <!-- //     Mojosol ( Mockup )   // -->
+            <li class="mockup all">
+                <div class="portfolio type-portfolio">
+                   <a class="fancybox"  href= "psd-work/mockup/mojosol/mojosol-itservices.jpg" >
+                   <img src="psd-work/mockup-thumbs/mojosol/mojosol-itservices-small.jpg" /></a>         
+                </div> 
+            </li>
+            
+            <li class="mockup all">
+                <div class="portfolio type-portfolio">
+                   <a class="fancybox"  href= "psd-work/mockup/mojosol/mojo-marketing1.jpg" >
+                   <img src="psd-work/mockup-thumbs/mojosol/mojo-marketing1-small.jpg" /></a>  
+                </div> 
+            </li>
+            
+            <li class="mockup all">
+                <div class="portfolio type-portfolio">
+                   <a class="fancybox"  href= "psd-work/mockup/mojosol/mojo-marketing2.jpg" >
+                   <img src="psd-work/mockup-thumbs/mojosol/mojo-marketing2-small.jpg" /></a>  
+                </div> 
+            </li>
+            <li class="mockup all">
+                <div class="portfolio type-portfolio">
+                   <a class="fancybox"  href= "psd-work/mockup/mojosol/mojosol-affiliates.jpg" >
+                   <img src="psd-work/mockup-thumbs/mojosol/mojosol-affiliates-small.jpg" /></a>         
+                </div> 
+            </li>
+            
+            <li class="mockup all">
+                <div class="portfolio type-portfolio">
+                   <a class="fancybox"  href= "psd-work/mockup/mojosol/sahara-market4.jpg" >
+                   <img src="psd-work/mockup-thumbs/mojosol/sahara-market4-small.jpg" /></a>         
+                </div> 
+            </li>
+            
+            <li class="mockup all">
+                <div class="portfolio type-portfolio">
+                   <a class="fancybox"  href= "psd-work/mockup/mojosol/sahara-market2.jpg" >
+                   <img src="psd-work/mockup-thumbs/mojosol/sahara-market2-small.jpg" /></a>         
+                </div> 
+            </li>
+            
+            <li class="mockup all">
+                <div class="portfolio type-portfolio">
+                   <a class="fancybox"  href= "psd-work/mockup/mojosol/sahara-market6.jpg" >
+                   <img src="psd-work/mockup-thumbs/mojosol/sahara-market6-small.jpg" /></a>         
+                </div> 
+            </li>
+            
+            <li class="mockup all">
+                <div class="portfolio type-portfolio">
+                   <a class="fancybox"  href= "psd-work/mockup/mojosol/sahara-market5.jpg" >
+                   <img src="psd-work/mockup-thumbs/mojosol/sahara-market5-small.jpg" /></a>         
+                </div> 
+            </li>
+            
+            <li class="mockup all">
+                <div class="portfolio type-portfolio">
+                   <a class="fancybox"  href= "psd-work/mockup/mojosol/sahara-market3.jpg" >
+                   <img src="psd-work/mockup-thumbs/mojosol/sahara-market3-small.jpg" /></a>         
+                </div> 
+            </li>
+
+
+            <!-- //     D-Dubash ( Mockup )   // -->
+            <li class="mockup all">
+                <div class="portfolio type-portfolio">
+                   <a class="fancybox"  href= "psd-work/mockup/ddubash/ddubash-artchock.jpg" ><img src="psd-work/mockup-thumbs/ddubash/ddubash-artchock-small.jpg" /></a>   
+                </div>
+            </li>
+            
+            <li class="mockup all">
+                <div class="portfolio type-portfolio">
+                   <a class="fancybox"  href= "psd-work/mockup/ddubash/ddubash-burgerking.jpg" ><img src="psd-work/mockup-thumbs/ddubash/ddubash-burgerking-small.jpg" /></a>   
+                </div>
+            </li>
+            
+            <li class="mockup all">
+                <div class="portfolio type-portfolio">
+                   <a class="fancybox"  href= "psd-work/mockup/ddubash/ddubash-chenone.jpg" ><img src="psd-work/mockup-thumbs/ddubash/ddubash-chenone-small.jpg" /></a>     
+                </div>
+            </li>
+            
+            <li class="mockup all">
+                <div class="portfolio type-portfolio">
+                   <a class="fancybox"  href= "psd-work/mockup/ddubash/ddubash-daaman.jpg" ><img src="psd-work/mockup-thumbs/ddubash/ddubash-daaman-small.jpg" /></a>   
+                </div>
+            </li>
+            
+            <li class="mockup all">
+                <div class="portfolio type-portfolio">
+                   <a class="fancybox"  href= "psd-work/mockup/ddubash/ddubash-daaman2.jpg" ><img src="psd-work/mockup-thumbs/ddubash/ddubash-daaman2-small.jpg" /></a>     
+                </div>
+            </li>
+            
+            <li class="mockup all">
+                <div class="portfolio type-portfolio">
+                   <a class="fancybox"  href= "psd-work/mockup/ddubash/ddubash-espresso.jpg" ><img src="psd-work/mockup-thumbs/ddubash/ddubash-espresso-small.jpg" /></a>   
+                </div>
+            </li>
+            
+            <li class="mockup all">
+                <div class="portfolio type-portfolio">
+                   <a class="fancybox"  href= "psd-work/mockup/ddubash/ddubash-evock.jpg" ><img src="psd-work/mockup-thumbs/ddubash/ddubash-evock-small.jpg" /></a>     
+                </div>
+            </li>
+            
+            <li class="mockup all">
+                <div class="portfolio type-portfolio">
+                   <a class="fancybox"  href= "psd-work/mockup/ddubash/ddubash-nandos.jpg" ><img src="psd-work/mockup-thumbs/ddubash/ddubash-nandos-small.jpg" /></a>   
+                </div>
+            </li>
+            
+            <li class="mockup all">
+                <div class="portfolio type-portfolio">
+                   <a class="fancybox"  href= "psd-work/mockup/ddubash/ddubash-object.jpg" ><img src="psd-work/mockup-thumbs/ddubash/ddubash-object-small.jpg" /></a>   
+                </div>
+            </li>
+            
+            <li class="mockup all">
+                <div class="portfolio type-portfolio">
+                   <a class="fancybox"  href= "psd-work/mockup/ddubash/ddubash-platinumlist.jpg" ><img src="psd-work/mockup-thumbs/ddubash/ddubash-platinumlist-small.jpg" /></a>   
+                </div>
+            </li>
+            
+            <li class="mockup all">
+                <div class="portfolio type-portfolio">
+                   <a class="fancybox"  href= "psd-work/mockup/ddubash/ddubash-southcityhospital.jpg" ><img src="psd-work/mockup-thumbs/ddubash/ddubash-southcityhospital-small.jpg" /></a>     
+                </div>
+            </li>
+            
+            <li class="mockup all">
+                <div class="portfolio type-portfolio">
+                   <a class="fancybox"  href= "psd-work/mockup/ddubash/ddubash-southcitylab.jpg" ><img src="psd-work/mockup-thumbs/ddubash/ddubash-southcitylab-small.jpg" /></a>   
+                </div>
+            </li>
+
+            <li class="mockup all">
+                <div class="portfolio type-portfolio">
+                   <a class="fancybox"  href= "psd-work/mockup/ddubash/ddubash-arkadions.jpg" ><img src="psd-work/mockup-thumbs/ddubash/ddubash-arkadions-small.jpg" /></a>     
+                </div>
+            </li>
+            
+            <li class="mockup all">
+                <div class="portfolio type-portfolio">
+                   <a class="fancybox"  href= "psd-work/mockup/ddubash/ddubash-arkadions2.jpg" ><img src="psd-work/mockup-thumbs/ddubash/ddubash-arkadions2-small.jpg" /></a>   
+                </div>
+            </li>
+
+            
+            <!-- //     Jeem ( Mockup )   // -->
+            <li class="mockup all">
+                <div class="portfolio type-portfolio">
+                   <a class="fancybox"  href= "psd-work/mockup/jeem/jeem-eye-care2.jpg" ><img src="psd-work/mockup-thumbs/jeem/jeem-eye-care2-small.jpg" /></a>     
+                </div>
+            </li>
+            <li class="mockup all">
+                <div class="portfolio type-portfolio">
+                   <a class="fancybox"  href= "psd-work/mockup/jeem/jeem-birth.jpg" ><img src="psd-work/mockup-thumbs/jeem/jeem-birth-small.jpg" /></a>     
+                </div>
+            </li>
+            <li class="mockup all">
+                <div class="portfolio type-portfolio">
+                   <a class="fancybox"  href= "psd-work/mockup/jeem/jeem-attestation.jpg" ><img src="psd-work/mockup-thumbs/jeem/jeem-attestation-small.jpg" /></a>     
+                </div>
+            </li>
+             
+            <li class="mockup all">
+                <div class="portfolio type-portfolio">
+                   <a class="fancybox"  href= "psd-work/mockup/jeem/jeem-createmyfreeapp.jpg" >
+                   <img src="psd-work/mockup-thumbs/jeem/jeem-createmyfreeapp-small.jpg" /></a>
+                </div> 
+            </li>
+            
+            <li class="mockup all">
+                <div class="portfolio type-portfolio">
+                   <a class="fancybox"  href= "psd-work/mockup/jeem/jeem-appiconator.jpg" >
+                   <img src="psd-work/mockup-thumbs/jeem/jeem-appiconator-small.jpg" /></a>
+                </div> 
+            </li>
+            
+             <li class="mockup all">
+                <div class="portfolio type-portfolio">
+                   <a class="fancybox"  href= "psd-work/mockup/jeem/jeem-health.jpg" >
+                   <img src="psd-work/mockup-thumbs/jeem/jeem-health-small.jpg" /></a> 
+                </div> 
+            </li>
+            
+            
+            <!-- //     Jamtak ( Mockup )   // -->
+            <li class="mockup all">
+                <div class="portfolio type-portfolio">
+                   <a class="fancybox"  href= "psd-work/mockup/jamtak/jpf.jpg"><img src="psd-work/mockup-thumbs/jamtak/jpf-small.jpg" /></a>    
+                </div>
+            </li>
+            
+            <li class="mockup all">
+                <div class="portfolio type-portfolio">
+                   <a class="fancybox"  href= "psd-work/mockup/jamtak/jpf2.jpg" ><img src="psd-work/mockup-thumbs/jamtak/jpf2-small.jpg" /></a>     
+                </div>
+            </li>
+            
+            <li class="mockup all">
+                <div class="portfolio type-portfolio">
+                   <a class="fancybox"  href= "psd-work/mockup/jamtak/knz-site.jpg" ><img src="psd-work/mockup-thumbs/jamtak/knz-site-small.jpg" /></a>     
+                </div>
+            </li>
+            
+            <li class="mockup all">
+                <div class="portfolio type-portfolio">
+                   <a class="fancybox"  href= "psd-work/mockup/jamtak/knz-site2.jpg" ><img src="psd-work/mockup-thumbs/jamtak/knz-site2-small.jpg" /></a>   
+                </div>
+            </li>
+            
+            <li class="mockup all">
+                <div class="portfolio type-portfolio">
+                   <a class="fancybox"  href= "psd-work/mockup/jamtak/knz-site3.jpg" ><img src="psd-work/mockup-thumbs/jamtak/knz-site3-small.jpg" /></a>   
+                </div>
+            </li>
+            
+            <li class="mockup all">
+                <div class="portfolio type-portfolio">
+                   <a class="fancybox"  href= "psd-work/mockup/jamtak/globe-ip.jpg" ><img src="psd-work/mockup-thumbs/jamtak/globe-ip-small.jpg" /></a>     
+                </div>
+            </li>
+            
+            <li class="mockup all">
+                <div class="portfolio type-portfolio">
+                   <a class="fancybox"  href= "psd-work/mockup/jamtak/globe-ip2.jpg" ><img src="psd-work/mockup-thumbs/jamtak/globe-ip2-small.jpg" /></a>   
+                </div>
+            </li>
+            
+            <li class="mockup all">
+                <div class="portfolio type-portfolio">
+                   <a class="fancybox"  href= "psd-work/mockup/jamtak/globe-ip3.jpg" ><img src="psd-work/mockup-thumbs/jamtak/globe-ip3-small.jpg" /></a>   
+                </div>
+            </li>
+            
+            <li class="mockup all">
+                <div class="portfolio type-portfolio">
+                   <a class="fancybox"  href= "psd-work/mockup/jamtak/globe-ip4.jpg" ><img src="psd-work/mockup-thumbs/jamtak/globe-ip4-small.jpg" /></a>   
+                </div>
+            </li>
+            
+            <li class="mockup all">
+                <div class="portfolio type-portfolio">
+                   <a class="fancybox"  href= "psd-work/mockup/jamtak/supergized-mlm.jpg" ><img src="psd-work/mockup-thumbs/jamtak/supergized-mlm-small.jpg" /></a>     
+                </div>
+            </li>
+            
+            <li class="mockup all">
+                <div class="portfolio type-portfolio">
+                   <a class="fancybox"  href= "psd-work/mockup/jamtak/supergized-mlm2.jpg" ><img src="psd-work/mockup-thumbs/jamtak/supergized-mlm2-small.jpg" /></a>   
+                </div>
+            </li>
+            
+            <li class="mockup all">
+                <div class="portfolio type-portfolio">
+                   <a class="fancybox"  href= "psd-work/mockup/jamtak/supergized-mlm4.jpg" ><img src="psd-work/mockup-thumbs/jamtak/supergized-mlm4-small.jpg" /></a>   
+                </div>
+            </li>
+                        
+            <li class="mockup all">
+                <div class="portfolio type-portfolio">
+                   <a class="fancybox"  href= "psd-work/mockup/jamtak/austin-medical.jpg" ><img src="psd-work/mockup-thumbs/jamtak/austin-medical-small.jpg" /></a>     
+                </div>
+            </li>
+            
+            <li class="mockup all">
+                <div class="portfolio type-portfolio">
+                   <a class="fancybox"  href= "psd-work/mockup/jamtak/insurance-worx.jpg" ><img src="psd-work/mockup-thumbs/jamtak/insurance-worx-small.jpg" /></a>     
+                </div>
+            </li>
+            
+            <li class="mockup all">
+                <div class="portfolio type-portfolio">
+                   <a class="fancybox"  href= "psd-work/mockup/jamtak/diana-law4.jpg" ><img src="psd-work/mockup-thumbs/jamtak/diana-law4-small.jpg" /></a>     
+                </div>
+            </li>
+            
+            <li class="mockup all">
+                <div class="portfolio type-portfolio">
+                   <a class="fancybox"  href= "psd-work/mockup/jamtak/diana-law2.jpg" ><img src="psd-work/mockup-thumbs/jamtak/diana-law2-small.jpg" /></a>     
+                </div>
+            </li>
+            
+            <li class="mockup all">
+                <div class="portfolio type-portfolio">
+                   <a class="fancybox"  href= "psd-work/mockup/jamtak/diana-law6.jpg" ><img src="psd-work/mockup-thumbs/jamtak/diana-law6-small.jpg" /></a>     
+                </div>
+            </li>
+        
+            <li class="mockup all">
+                <div class="portfolio type-portfolio">
+                   <a class="fancybox"  href= "psd-work/mockup/jamtak/empire-messaging.jpg" ><img src="psd-work/mockup-thumbs/jamtak/empire-messaging-smalll.jpg" /></a>    
+                </div>
+            </li>
+            
+            <li class="mockup all">
+                <div class="portfolio type-portfolio">
+                   <a class="fancybox"  href= "psd-work/mockup/jamtak/ifax.jpg" ><img src="psd-work/mockup-thumbs/jamtak/ifax-small.jpg" /></a>     
+                </div>
+            </li>
+            
+            <li class="mockup all">
+                <div class="portfolio type-portfolio">
+                   <a class="fancybox"  href= "psd-work/mockup/jamtak/business-temp.jpg" ><img src="psd-work/mockup-thumbs/jamtak/business-temp-small.jpg" /></a>   
+                </div>
+            </li>   
+            
+
+            
+            <!-- //     3 Row ( Mockup )   // -->
+            <li class="mockup all">
+                <div class="portfolio type-portfolio">
+                   <a class="fancybox"  href= "psd-work/mockup/machcotex.jpg" ><img src="psd-work/mockup-thumbs/machcotex-small.jpg" /></a>     
+                </div>
+            </li>
+            <li class="mockup all">
+                <div class="portfolio type-portfolio">
+                   <a class="fancybox"  href= "psd-work/mockup/deep-blue.jpg" ><img src="psd-work/mockup-thumbs/deep-blue-small.jpg" /></a>     
+                </div>
+            </li>
+            
+            <li class="mockup all">
+                <div class="portfolio type-portfolio">
+                   <a class="fancybox"  href= "psd-work/mockup/perrino.jpg" ><img src="psd-work/mockup-thumbs/perrino-small.jpg" /></a>     
+                </div>
+            </li>
+            <li class="mockup all">
+                <div class="portfolio type-portfolio">
+                   <a class="fancybox"  href= "psd-work/mockup/park-college.jpg" ><img src="psd-work/mockup-thumbs/park-college.jpg" /></a>     
+                </div>
+            </li>
+            <li class="mockup all">
+                <div class="portfolio type-portfolio">
+                   <a class="fancybox"  href= "psd-work/mockup/temp1.jpg" ><img src="psd-work/mockup-thumbs/temp1-small.jpg" /></a>     
+                </div>
+            </li>
+            
+            <li class="mockup all">
+                <div class="portfolio type-portfolio">
+                   <a class="fancybox"  href= "psd-work/mockup/hosting.jpg" ><img src="psd-work/mockup-thumbs/hosting-small.jpg" /></a>     
+                </div>
+            </li>
+            
+            <li class="mockup all">
+                <div class="portfolio type-portfolio">
+                   <a class="fancybox"  href= "psd-work/mockup/lavish-flooring.jpg" ><img src="psd-work/mockup-thumbs/lavish-flooring-small.jpg" /></a>     
+                </div>
+            </li>
+            <!--  /Mockup -->
+         
+         
+         
+
+
+
+
+
+
+
+
+
+         
+         
+    
+            <!-- /////////////////////////////////////////////////// -->
+            
+                         <!-- //     Mobile Apps    // -->
+                
+            <!-- /////////////////////////////////////////////////// -->
+
+            <!-- //    ist Row ( Apps )   // -->
+            <li class="apps all">
+                <div class="portfolio type-portfolio">
+                   <a href= "https://www.behance.net/gallery/88752101/Hunar-Apps" target="_blank">
+                    <img src="psd-work/apps/hunar-app.jpg" class="log-bgs"></a>      
+                </div>
+            </li>
+
+            <li class="apps all">
+                <div class="portfolio type-portfolio">
+                   <a href= "https://www.pinterest.com/suhailkhan127/rahah-doctor-app/" target="_blank">
+                    <img src="psd-work/apps/raha-doctor.jpg" class="log-bgs"></a>      
+                </div>
+            </li>
+
+            <li class="apps all">
+                <div class="portfolio type-portfolio">
+                   <a href= "https://play.google.com/store/apps/details?id=com.raintreeminispa.raintree&hl=en" target="_blank" >
+                    <img src="psd-work/apps/raintree.jpg" class="log-bgs"></a>     
+                </div>
+            </li>
+            
+            <li class="apps all">
+                <div class="portfolio type-portfolio">
+                   <a href= "https://www.pinterest.com/suhailkhan127/tsl-go-mobile/" target="_blank">
+                    <img src="psd-work/apps/tsl.jpg" class="log-bgs"></a>      
+                </div>
+            </li>
+            
+            <li class="apps all">
+                <div class="portfolio type-portfolio">
+                   <a href= "https://play.google.com/store/apps/details?id=com.jeemsolutions.appshoodie&hl=en" target="_blank">
+                    <img src="psd-work/apps/appshoodie.jpg" class="log-bgs"></a>   
+                </div>
+            </li>
+
+            <li class="apps all">
+                <div class="portfolio type-portfolio">
+                   <a href= "https://www.pinterest.com/suhailkhan127/rahah-patient-app/" target="_blank" ><img src="psd-work/apps/raha-patient.jpg" class="log-bgs"></a>   
+                </div>
+            </li>
+        
+         
+
+
+
+
+
+
+
+
+         
+
+
+    
+            <!-- /////////////////////////////////////////////////// -->
+            
+                <!-- //     Logos     // -->
+                
+            <!-- /////////////////////////////////////////////////// -->
+
+            <!-- //    Freelance ( Logos )   // --> 
+            <li class="logos all" >
+                <div class="portfolio type-portfolio">
+                   <a href="#"><img src="psd-work/logos/freelance/j-distribution1.jpg" class="log-bgs"></a>      
+                </div>
+            </li>
+
+            <li class="logos all" >
+                <div class="portfolio type-portfolio">
+                   <a href="#"><img src="psd-work/logos/freelance/j-distribution2.jpg" class="log-bgs"></a>
+                </div>
+            </li>
+            <li class="logos all" >
+                <div class="portfolio type-portfolio">
+                   <a href="#"><img src="psd-work/logos/freelance/raksterz-logo2.jpg" class="log-bgs"></a>
+                </div>
+            </li>
+
+            <li class="logos all" >
+                <div class="portfolio type-portfolio">
+                   <a href="#"><img src="psd-work/logos/freelance/raksterz-logo1.jpg" class="log-bgs"></a>      
+                </div>
+            </li>
+            <li class="logos all" >
+                <div class="portfolio type-portfolio">
+                   <a href="#"><img src="psd-work/logos/freelance/fastone.jpg" class="log-bgs"></a>      
+                </div>
+            </li>
+            <li class="logos all" >
+                <div class="portfolio type-portfolio">
+                   <a href="#"><img src="psd-work/logos/freelance/fastone2.jpg" class="log-bgs"></a>      
+                </div>
+            </li>
+
+            <li class="logos all" >
+                <div class="portfolio type-portfolio">
+                   <a href="#"><img src="psd-work/logos/freelance/medmall-3.jpg" class="log-bgs"></a>      
+                </div>
+            </li>
+
+            <li class="logos all" >
+                <div class="portfolio type-portfolio">
+                   <a href="#"><img src="psd-work/logos/freelance/medmall-2.jpg" class="log-bgs"></a>      
+                </div>
+            </li>
+
+            <li class="logos all" >
+                <div class="portfolio type-portfolio">
+                   <a href="#"><img src="psd-work/logos/freelance/medmall-1.jpg" class="log-bgs"></a>      
+                </div>
+            </li>
+
+            <li class="logos all" >
+                <div class="portfolio type-portfolio">
+                   <a href="#"><img src="psd-work/logos/freelance/medmall-6.jpg" class="log-bgs"></a>      
+                </div>
+            </li>
+
+            <li class="logos all" >
+                <div class="portfolio type-portfolio">
+                   <a href="#"><img src="psd-work/logos/freelance/medmall-5.jpg" class="log-bgs"></a>      
+                </div>
+            </li>
+
+            <li class="logos all" >
+                <div class="portfolio type-portfolio">
+                   <a href="#"><img src="psd-work/logos/freelance/medmall-4.jpg" class="log-bgs"></a>      
+                </div>
+            </li>
+
+            
+
+            <!-- //    Gradus Labs ( Logos )   // -->  
+            <li class="logos all" >
+                <div class="portfolio type-portfolio">
+                   <a href="#"><img src="psd-work/logos/graduslabz/zifan9.jpg" class="log-bgs"></a>    
+                </div>
+            </li>
+
+            <li class="logos all" >
+                <div class="portfolio type-portfolio">
+                   <a href="#"><img src="psd-work/logos/graduslabz/zifan8.jpg" class="log-bgs"></a>    
+                </div>
+            </li>
+
+            <li class="logos all" >
+                <div class="portfolio type-portfolio">
+                   <a href="#"><img src="psd-work/logos/graduslabz/zifan5.jpg" class="log-bgs"></a>    
+                </div>
+            </li>
+
+            <li class="logos all" >
+                <div class="portfolio type-portfolio">
+                   <a href="#"><img src="psd-work/logos/graduslabz/zifan6.jpg" class="log-bgs"></a>    
+                </div>
+            </li>
+
+            <li class="logos all" >
+                <div class="portfolio type-portfolio">
+                   <a href="#"><img src="psd-work/logos/graduslabz/zifan7.jpg" class="log-bgs"></a>    
+                </div>
+            </li>
+
+            <li class="logos all" >
+                <div class="portfolio type-portfolio">
+                   <a href="#"><img src="psd-work/logos/graduslabz/zifan2.jpg" class="log-bgs"></a>    
+                </div>
+            </li>
+
+            <li class="logos all" >
+                <div class="portfolio type-portfolio">
+                   <a href="#"><img src="psd-work/logos/graduslabz/zifan3.jpg" class="log-bgs"></a>    
+                </div>
+            </li>
+
+            <li class="logos all" >
+                <div class="portfolio type-portfolio">
+                   <a href="#"><img src="psd-work/logos/graduslabz/zifan4.jpg" class="log-bgs"></a>    
+                </div>
+            </li>
+
+            <li class="logos all" >
+                <div class="portfolio type-portfolio">
+                   <a href="#"><img src="psd-work/logos/graduslabz/zifan1.jpg" class="log-bgs"></a>    
+                </div>
+            </li>
+
+
+            <!-- //    Freelance ( Logos )   // -->  
+            <li class="logos all" >
+                <div class="portfolio type-portfolio">
+                   <a href="#"><img src="psd-work/logos/freelance/planify.jpg" class="log-bgs"></a>    
+                </div>
+            </li>
+            <li class="logos all" >
+                <div class="portfolio type-portfolio">
+                   <a href="#"><img src="psd-work/logos/freelance/isource1.jpg" class="log-bgs"></a>   
+                </div>
+            </li>
+
+            <li class="logos all" >
+                <div class="portfolio type-portfolio">
+                   <a href="#"><img src="psd-work/logos/freelance/isource2.jpg" class="log-bgs"></a>   
+                </div>
+            </li>
+
+            
+            <li class="logos all" >
+                <div class="portfolio type-portfolio">
+                   <a href="#"><img src="psd-work/logos/freelance/bpl.jpg" class="log-bgs"></a>   
+                </div>
+            </li>
+
+            <li class="logos all" >
+                <div class="portfolio type-portfolio">
+                   <a href="#"><img src="psd-work/logos/freelance/giftsnparcel1.jpg" class="log-bgs"></a>      
+                </div>
+            </li>
+
+            <li class="logos all" >
+                <div class="portfolio type-portfolio">
+                   <a href="#"><img src="psd-work/logos/freelance/giftsnparcel2.jpg" class="log-bgs"></a>      
+                </div>
+            </li>
+
+            <li class="logos all" >
+                <div class="portfolio type-portfolio">
+                   <a href="#"><img src="psd-work/logos/freelance/attestation.jpg" class="log-bgs"></a>    
+                </div>
+            </li>
+
+            <li class="logos all" >
+                <div class="portfolio type-portfolio">
+                   <a href="#"><img src="psd-work/logos/freelance/slick-whiz4.jpg" class="log-bgs"></a>    
+                </div>
+            </li>
+
+            <li class="logos all" >
+                <div class="portfolio type-portfolio">
+                   <a href="#"><img src="psd-work/logos/freelance/slick-whiz5.jpg" class="log-bgs"></a>    
+                </div>
+            </li>
+
+            <li class="logos all" >
+                <div class="portfolio type-portfolio">
+                   <a href="#"><img src="psd-work/logos/freelance/slick-whiz1.jpg" class="log-bgs"></a>    
+                </div>
+            </li>
+
+            <li class="logos all" >
+                <div class="portfolio type-portfolio">
+                   <a href="#"><img src="psd-work/logos/freelance/slick-whiz3.jpg" class="log-bgs"></a>    
+                </div>
+            </li>
+
+            <li class="logos all" >
+                <div class="portfolio type-portfolio">
+                   <a href="#"><img src="psd-work/logos/freelance/slick-whiz2.jpg" class="log-bgs"></a>    
+                </div>
+            </li>
+
+
+            <li class="logos all" >
+                <div class="portfolio type-portfolio">
+                   <a href="#"><img src="psd-work/logos/freelance/trading-arcade1.jpg" class="log-bgs"></a>    
+                </div>
+            </li>
+
+            <li class="logos all" >
+                <div class="portfolio type-portfolio">
+                   <a href="#"><img src="psd-work/logos/freelance/trading-arcade3.jpg" class="log-bgs"></a>    
+                </div>
+            </li>
+
+            <li class="logos all" >
+                <div class="portfolio type-portfolio">
+                   <a href="#"><img src="psd-work/logos/freelance/trading-arcade2.jpg" class="log-bgs"></a>    
+                </div>
+            </li>
+            <li class="logos all" >
+                <div class="portfolio type-portfolio">
+                   <a href="#"><img src="psd-work/logos/freelance/strix.jpg" class="log-bgs"></a>    
+                </div>
+            </li>
+
+            <li class="logos all" >
+                <div class="portfolio type-portfolio">
+                   <a href="#"><img src="psd-work/logos/freelance/atanShop-logo7.jpg" class="log-bgs"></a>     
+                </div>
+            </li>
+
+            <li class="logos all" >
+                <div class="portfolio type-portfolio">
+                   <a href="#"><img src="psd-work/logos/freelance/atanShop-logo4.jpg" class="log-bgs"></a>     
+                </div>
+            </li>
+
+            <li class="logos all" >
+                <div class="portfolio type-portfolio">
+                   <a href="#"><img src="psd-work/logos/freelance/atanShop-logo5.jpg" class="log-bgs"></a>     
+                </div>
+            </li>
+
+            <li class="logos all" >
+                <div class="portfolio type-portfolio">
+                   <a href="#"><img src="psd-work/logos/freelance/atanShop-logo6.jpg" class="log-bgs"></a>     
+                </div>
+            </li>
+
+
+            <li class="logos all" >
+                <div class="portfolio type-portfolio">
+                   <a href="#"><img src="psd-work/logos/freelance/atanShop-logo1.jpg" class="log-bgs"></a>     
+                </div>
+            </li>
+
+            <li class="logos all" >
+                <div class="portfolio type-portfolio">
+                   <a href="#"><img src="psd-work/logos/freelance/atanShop-logo2.jpg" class="log-bgs"></a>     
+                </div>
+            </li>
+
+            <li class="logos all" >
+                <div class="portfolio type-portfolio">
+                   <a href="#"><img src="psd-work/logos/freelance/atanShop-logo3.jpg" class="log-bgs"></a>     
+                </div>
+            </li>
+
+
+
+            <!-- //    Sharp Image ( Logos )   // -->  
+            <li class="logos all" >
+                <div class="portfolio type-portfolio">
+                   <a href="#"><img src="psd-work/logos/freelance/writer-logo4.jpg" class="log-bgs"></a>   
+                </div>
+            </li>
+
+            <li class="logos all" >
+                <div class="portfolio type-portfolio">
+                   <a href="#"><img src="psd-work/logos/freelance/writer-logo3.jpg" class="log-bgs"></a>   
+                </div>
+            </li>
+
+            <li class="logos all" >
+                <div class="portfolio type-portfolio">
+                   <a href="#"><img src="psd-work/logos/freelance/writer-logo6.jpg" class="log-bgs"></a>   
+                </div>
+            </li>
+
+            <li class="logos all" >
+                <div class="portfolio type-portfolio">
+                   <a href="#"><img src="psd-work/logos/freelance/writer-logo5.jpg" class="log-bgs"></a>   
+                </div>
+            </li>
+            
+            <li class="logos all" >
+                <div class="portfolio type-portfolio">
+                   <a href="#"><img src="psd-work/logos/freelance/writer-logo2.jpg" class="log-bgs"></a>   
+                </div>
+            </li>
+
+            <li class="logos all" >
+                <div class="portfolio type-portfolio">
+                   <a href="#"><img src="psd-work/logos/freelance/writer-logo1.jpg" class="log-bgs"></a>   
+                </div>
+            </li>
+
+            
+            <!-- //    Freelance ( Logos )   // -->  
+            <li class="logos all" >
+                <div class="portfolio type-portfolio">
+                   <a href="#"><img src="psd-work/logos/freelance/bm-logo6.jpg" class="log-bgs"></a>   
+                </div>
+            </li>
+
+            <li class="logos all" >
+                <div class="portfolio type-portfolio">
+                   <a href="#"><img src="psd-work/logos/freelance/bm-logo7.jpg" class="log-bgs"></a>   
+                </div>
+            </li>
+
+            <li class="logos all" >
+                <div class="portfolio type-portfolio">
+                   <a href="#"><img src="psd-work/logos/freelance/bm-logo3.jpg" class="log-bgs"></a>   
+                </div>
+            </li>
+
+            <li class="logos all" >
+                <div class="portfolio type-portfolio">
+                   <a href="#"><img src="psd-work/logos/freelance/bm-logo1.jpg" class="log-bgs"></a>   
+                </div>
+            </li>
+
+            <li class="logos all" >
+                <div class="portfolio type-portfolio">
+                   <a href="#"><img src="psd-work/logos/freelance/bm-logo2.jpg" class="log-bgs"></a>   
+                </div>
+            </li>
+
+            <li class="logos all" >
+                <div class="portfolio type-portfolio">
+                   <a href="#"><img src="psd-work/logos/freelance/plutolabz2.jpg" class="log-bgs"></a>     
+                </div>
+            </li>
+
+            <li class="logos all" >
+                <div class="portfolio type-portfolio">
+                   <a href="#"><img src="psd-work/logos/freelance/plutolabz1.jpg" class="log-bgs"></a>     
+                </div>
+            </li>
+
+            <li class="logos all" >
+                <div class="portfolio type-portfolio">
+                   <a href="#"><img src="psd-work/logos/freelance/zaheer-logo.jpg" class="log-bgs"></a>    
+                </div>
+            </li>
+
+
+            <!-- //    Mojosol ( Logos )   // -->
+            <li class="logos all">
+                <div class="portfolio type-portfolio">
+                   <a href="#"><img src="psd-work/logos/mojosol-logo.jpg" class="log-bgs"></a>   
+                </div>
+            </li>
+            
+            <li class="logos all">
+                <div class="portfolio type-portfolio">
+                   <a href="#"><img src="psd-work/logos/happy-logo3.jpg" class="log-bgs"></a>    
+                </div>
+            </li>   
+            
+            <li class="logos all">
+                <div class="portfolio type-portfolio">
+                   <a href="#"><img src="psd-work/logos/sahara-logo2.jpg" class="log-bgs"></a>   
+                </div>
+            </li>
+            
+            <li class="logos all">
+                <div class="portfolio type-portfolio">
+                   <a href="#"><img src="psd-work/logos/sahara-logo1.jpg" class="log-bgs"></a>   
+                </div>
+            </li>   
+            
+            <li class="logos all">
+                <div class="portfolio type-portfolio">
+                   <a href="#"><img src="psd-work/logos/sahara-logo3.jpg" class="log-bgs"></a>   
+                </div>
+            </li>
+            
+
+            <!-- //    Freelance ( Logos )   // -->
+            <li class="logos all">
+                <div class="portfolio type-portfolio">
+                   <a href="#"target="_blank" ><img src="psd-work/logos/dimsum.jpg" class="log-bgs"></a>     
+                </div>
+            </li>
+            
+            <li class="logos all">
+                <div class="portfolio type-portfolio">
+                   <a href="#"target="_blank" ><img src="psd-work/logos/bahria-grocers1.jpg" class="log-bgs"></a>    
+                </div>
+            </li>
+            
+            <li class="logos all">
+                <div class="portfolio type-portfolio">
+                   <a href="#"target="_blank" ><img src="psd-work/logos/bahria-grocers3.jpg" class="log-bgs"></a>    
+                </div>
+            </li>
+            
+            <li class="logos all">
+                <div class="portfolio type-portfolio">
+                   <a href="#"target="_blank" ><img src="psd-work/logos/magemagicion-logo3.jpg" class="log-bgs"></a>     
+                </div>
+            </li>
+            
+            <li class="logos all">
+                <div class="portfolio type-portfolio">
+                   <a href="#"target="_blank" ><img src="psd-work/logos/pioneer-logo3.jpg" class="log-bgs"></a>      
+                </div>
+            </li>
+            
+            <li class="logos all">
+                <div class="portfolio type-portfolio">
+                   <a href="#"target="_blank" ><img src="psd-work/logos/pioneer-logo2.jpg" class="log-bgs"></a>      
+                </div>
+            </li>
+                          
+            <li class="logos all">
+                <div class="portfolio type-portfolio">
+                   <a href="#"target="_blank" ><img src="psd-work/logos/magemagicion-logo2.jpg" class="log-bgs"></a>     
+                </div>
+            </li>
+            
+            <li class="logos all">
+                <div class="portfolio type-portfolio">
+                   <a href="#"><img src="psd-work/logos/crossways2.jpg" class="log-bgs"></a>     
+                </div>
+            </li>
+            
+            <li class="logos all">
+                <div class="portfolio type-portfolio">
+                   <a href="#"><img src="psd-work/logos/crossways1.jpg" class="log-bgs"></a>     
+                </div>
+            </li>
+            
+            <li class="logos all">
+                <div class="portfolio type-portfolio">
+                   <a href="#"><img src="psd-work/logos/powerguy3.jpg" class="log-bgs"></a>      
+                </div>
+            </li>
+
+            <li class="logos all">
+                <div class="portfolio type-portfolio">
+                   <a href="#"><img src="psd-work/logos/powerguy4.jpg" class="log-bgs"></a>      
+                </div>
+            </li>   
+            
+            <li class="logos all">
+                <div class="portfolio type-portfolio">
+                   <a href="#"><img src="psd-work/logos/powerguy5.jpg" class="log-bgs"></a>      
+                </div>
+            </li>
+            
+            <li class="logos all">
+                <div class="portfolio type-portfolio">
+                   <a href="#"><img src="psd-work/logos/powergirl1.jpg" class="log-bgs"></a>     
+                </div>
+            </li>   
+            
+            <li class="logos all">
+                <div class="portfolio type-portfolio">
+                   <a href="#"><img src="psd-work/logos/powergirl2.jpg" class="log-bgs"></a>     
+                </div>
+            </li>
+            
+            <li class="logos all">
+                <div class="portfolio type-portfolio">
+                   <a href="#"><img src="psd-work/logos/events2.jpg" class="log-bgs"></a>    
+                </div>
+            </li>
+            <li class="logos all">
+                <div class="portfolio type-portfolio">
+                   <a href="#"><img src="psd-work/logos/events1.jpg" class="log-bgs"></a>    
+                </div>
+            </li>
+            
+            <li class="logos all">
+                <div class="portfolio type-portfolio">
+                   <a href="#"><img src="psd-work/logos/ngo1.jpg" class="log-bgs"></a>   
+                </div>
+            </li>   
+            
+            <li class="logos all">
+                <div class="portfolio type-portfolio">
+                   <a href="#"><img src="psd-work/logos/ngo2.jpg" class="log-bgs"></a>   
+                </div>
+            </li>
+            
+            
+            <!-- //    Jeem ( Logos )   // -->
+            <li class="logos all">
+                <div class="portfolio type-portfolio">
+                   <a href="#"><img src="psd-work/logos/createmyfreeapp.jpg" class="log-bgs"></a>    
+                </div>
+            </li>
+            
+            <li class="logos all">
+                <div class="portfolio type-portfolio">
+                   <a href="#"><img src="psd-work/logos/createmyfreeapp2.jpg" class="log-bgs"></a>   
+                </div>
+            </li>   
+            
+            <li class="logos all">
+                <div class="portfolio type-portfolio">
+                   <a href="#"><img src="psd-work/logos/createmyfreeapp3.jpg" class="log-bgs"></a>   
+                </div>
+            </li>
+        
+            <li class="logos all">
+                <div class="portfolio type-portfolio">
+                   <a href="#"><img src="psd-work/logos/createmyfreeapp4.jpg" class="log-bgs"></a>   
+                </div>
+            </li>
+            
+            <li class="logos all">
+                <div class="portfolio type-portfolio">
+                   <a href="#"><img src="psd-work/logos/couponfinity1.jpg" class="log-bgs"></a>      
+                </div>
+            </li>   
+            
+            <li class="logos all">
+                <div class="portfolio type-portfolio">
+                   <a href="#"><img src="psd-work/logos/couponfinity2.jpg" class="log-bgs"></a>      
+                </div>
+            </li>
+            
+            <li class="logos all">
+                <div class="portfolio type-portfolio">
+                   <a href="#"><img src="psd-work/logos/gettekhelp1.jpg" class="log-bgs"></a>    
+                </div>
+            </li>
+            
+            <li class="logos all">
+                <div class="portfolio type-portfolio">
+                   <a href="#"><img src="psd-work/logos/gettekhelp2.jpg" class="log-bgs"></a>    
+                </div>
+            </li>
+            
+            <li class="logos all">
+                <div class="portfolio type-portfolio">
+                   <a href="#"><img src="psd-work/logos/gettekhelp3.jpg" class="log-bgs"></a>    
+                </div>
+            </li>
+            
+            <li class="logos all">
+                <div class="portfolio type-portfolio">
+                   <a href="#"><img src="psd-work/logos/coupon4pets.jpg" class="log-bgs"></a>    
+                </div>
+            </li>
+            
+            <li class="logos all">
+                <div class="portfolio type-portfolio">
+                   <a href="#"><img src="psd-work/logos/coupon4pets2.jpg" class="log-bgs"></a>   
+                </div>
+            </li>   
+
+
+            <!-- //    Jamtak ( Logos )   // -->
+            <li class="logos all">
+                <div class="portfolio type-portfolio">
+                   <a href= "#" ><img src="psd-work/logos/jamtak-logo.png" class="log-bgs"></a>   
+                </div>
+            </li>
+            
+            <li class="logos all">
+                <div class="portfolio type-portfolio">
+                   <a href= "#" ><img src="psd-work/logos/supergized-logo.png" class="log-bgs"></a>   
+                </div>
+            </li>             
+            
+            <li class="logos all">
+                <div class="portfolio type-portfolio">
+                   <a href="#"><img src="psd-work/logos/globe-ip1.jpg" class="log-bgs"></a>   
+                </div>
+            </li>
+            
+            <li class="logos all">
+                <div class="portfolio type-portfolio">
+                   <a href="#"><img src="psd-work/logos/globe-ip2.jpg" class="log-bgs"></a>      
+                </div>
+            </li>   
+            
+            <li class="logos all">
+                <div class="portfolio type-portfolio">
+                   <a href="#"><img src="psd-work/logos/jpf-logo3.jpg" class="log-bgs"></a>      
+                </div>
+            </li>   
+            
+            <li class="logos all">
+                <div class="portfolio type-portfolio">
+                   <a href= "http://www.jpfconsultinggroup.com/" target="_blank" ><img src="psd-work/logos/jpf-logo2.jpg" class="log-bgs"></a>     
+                </div>
+            </li>
+            
+            <li class="logos all">
+                <div class="portfolio type-portfolio">
+                   <a href= "#" ><img src="psd-work/logos/emax.png" class="log-bgs"></a>    
+                </div>
+            </li>   
+
+
+
+            <!-- //    MatliDigital ( Logos )   // -->
+            <li class="logos all">
+                <div class="portfolio type-portfolio">
+                   <a href= "http://www.thexpressions.net/" target="_blank" ><img src="psd-work/logos/the-xpression.png" class="log-bgs"></a>      
+                </div>
+            </li>   
+            
+            
+            <li class="logos all">
+                <div class="portfolio type-portfolio">
+                   <a href= "http://www.bettersurvives.com/" target="_blank" ><img src="psd-work/logos/better-survives.png" class="log-bgs"></a>   
+                </div>
+            </li>
+            
+            <li class="logos all">
+                <div class="portfolio type-portfolio">
+                   <a href= "http://www.ukfavpoints.com/" target="_blank" ><img src="psd-work/logos/ukfavpoint-logo.png" class="log-bgs"></a>      
+                </div>
+            </li>   
+            
+            <li class="logos all">
+                <div class="portfolio type-portfolio">
+                   <a href= "http://www.flightsbooker.net/" target="_blank" ><img src="psd-work/logos/flights-booker.png" class="log-bgs"></a>     
+                </div>
+            </li>   
+            
+            <li class="logos all">
+                <div class="portfolio type-portfolio">
+                   <a href= "http://www.whichotels.com/" target="_blank"><img src="psd-work/logos/which-hotels-logo.png" class="log-bgs"></a>      
+                </div>
+            </li>
+            
+            <li class="logos all">
+                <div class="portfolio type-portfolio">
+                   <a href= "http://www.gaselectrics.com/" target="_blank" ><img src="psd-work/logos/the-gas.png" class="log-bgs"></a>     
+                </div>
+            </li>   
+            
+            <li class="logos all">
+                <div class="portfolio type-portfolio">
+                   <a href= "http://www.save8shop.com/" target="_blank" ><img src="psd-work/logos/save8shop-logo.png" class="log-bgs"></a>     
+                </div>
+            </li>
+            
+            
+            <li class="logos all">
+                <div class="portfolio type-portfolio">
+                   <a href= "http://www.read2reads.com/" target="_blank" ><img src="psd-work/logos/read2read.png" class="log-bgs"></a>     
+                </div>
+            </li>
+            
+            <li class="logos all">
+                <div class="portfolio type-portfolio">
+                   <a href= "http://www.bestukdeal.net/" target="_blank" ><img src="psd-work/logos/bestukdeal.png" class="log-bgs"></a>    
+                </div>
+            </li>   
+            
+            <li class="logos all">
+                <div class="portfolio type-portfolio">
+                   <a href= "http://www.promotionaldeals.net/" target="_blank"><img src="psd-work/logos/promotionaldeals.png" class="log-bgs"></a>     
+                </div>
+            </li>
+            
+            <li class="logos all">
+                <div class="portfolio type-portfolio">
+                   <a href= "http://www.supperchoices.com/" target="_blank" ><img src="psd-work/logos/supper-choices.jpg" class="log-bgs"></a>     
+                </div>
+            </li>
+            
+            <li class="logos all">
+                <div class="portfolio type-portfolio">
+                   <a href= "http://www.keenselection.com/" target="_blank" ><img src="psd-work/logos/keen-logo.png" class="log-bgs"></a>      
+                </div>
+            </li>   
+            
+            <li class="logos all">
+                <div class="portfolio type-portfolio">
+                   <a href= "http://www.ukfinanceoffer.com/" target="_blank" ><img src="psd-work/logos/ukfinanceoffer.png" class="log-bgs"></a>    
+                </div>
+            </li>
+            
+            <li class="logos all">
+                <div class="portfolio type-portfolio">
+                   <a href= "http://www.deals-offers.com/" target="_blank" ><img src="psd-work/logos/deals-offers.png" class="log-bgs"></a>    
+                </div>
+            </li>
+            
+            <li class="logos all">
+                <div class="portfolio type-portfolio">
+                   <a href= "http://www.onchoices.com/" target="_blank" ><img src="psd-work/logos/onchoices-logo.jpg" class="log-bgs"></a>     
+                </div>
+            </li>   
+            <!--  /logos End-->
+
+
+
+
+
+
+
+
+         
+         
+         
+         
+            
+            <!-- /////////////////////////////////////////////////// -->
+            
+                <!-- //     Flyers     // -->
+                
+            <!-- /////////////////////////////////////////////////// -->    
+
+
+            <!-- //     2nd Row ( Flyers )   // -->
+            <li class="flyers all flyer-li">
+                <div class="portfolio type-portfolio">
+                   <a class="fancybox flyer-Res"  href= "psd-work/flyers/gradus1.jpg" ><img src="psd-work/flyers/gradus1.jpg" /></a>      
+                </div>
+            </li>
+            <li class="flyers all flyer-li">
+                <div class="portfolio type-portfolio">
+                   <a class="fancybox flyer-Res"  href= "psd-work/flyers/gradus2.jpg" ><img src="psd-work/flyers/gradus2.jpg" /></a>      
+                </div>
+            </li>
+            <li class="flyers all flyer-li ">
+                <div class="portfolio type-portfolio">
+                   <a class="fancybox flyer-Res"  href= "psd-work/flyers/interact1.jpg" ><img src="psd-work/flyers/interact1.jpg" /></a>      
+                </div>
+            </li>
+
+            <!-- //     2nd Row ( Flyers )   // -->
+            <li class="flyers all flyer-li">
+                <div class="portfolio type-portfolio">
+                   <a class="fancybox flyer-Res"  href= "psd-work/flyers/sharp1.jpg" ><img src="psd-work/flyers/sharp1.jpg" /></a>        
+                </div>
+            </li>
+            <li class="flyers all flyer-li">
+                <div class="portfolio type-portfolio">
+                   <a class="fancybox flyer-Res"  href= "psd-work/flyers/gradus3.jpg" ><img src="psd-work/flyers/gradus3.jpg" /></a>      
+                </div>
+            </li>
+            <li class="flyers all flyer-li">
+                <div class="portfolio type-portfolio">
+                   <a class="fancybox flyer-Res"  href= "psd-work/flyers/sharp2.jpg" ><img src="psd-work/flyers/sharp2.jpg" /></a>        
+                </div>
+            </li>
+            
+            
+             <!-- //     7th Row ( Flyers )    // -->                   
+            <li class="flyers all flyer-li">
+                <div class="portfolio type-portfolio">
+                   <a class="fancybox flyer-Res"  href= "psd-work/flyers/sahara-pamphlet1.jpg" ><img src="psd-work/flyers/sahara-pamphlet1.jpg" /></a>        
+                </div>
+            </li>
+            
+            <li class="flyers all flyer-li">
+                <div class="portfolio type-portfolio">
+                   <a class="fancybox flyer-Res"  href= "psd-work/flyers/sahara-pamphlet2.jpg" ><img src="psd-work/flyers/sahara-pamphlet2.jpg" /></a>        
+                </div>
+            </li>
+            
+            <li class="flyers all flyer-li">
+                <div class="portfolio type-portfolio">
+                   <a class="fancybox flyer-Res"  href= "psd-work/flyers/flyer-affilates.jpg" ><img src="psd-work/flyers/flyer-affilates.jpg" /></a>      
+                </div>
+            </li>
+            
+            
+            <!-- //     Ist Row ( Flyers )   // -->
+            <li class="flyers all flyer-li">
+                <div class="portfolio type-portfolio">
+                   <a class="fancybox flyer-Res"  href= "psd-work/flyers/appshoodie.jpg" ><img src="psd-work/flyers/appshoodie.jpg" /></a>        
+                </div>
+            </li>
+            
+            
+            <li class="flyers all flyer-li">
+                <div class="portfolio type-portfolio">
+                   <a class="fancybox flyer-Res"  href= "psd-work/flyers/superoracle-flyer.jpg" ><img src="psd-work/flyers/superoracle-flyer.jpg" /></a>      
+                </div>
+            </li>
+            
+            <li class="flyers all flyer-li">
+                <div class="portfolio type-portfolio">
+                   <a class="fancybox flyer-Res"  href= "psd-work/flyers/knz-flyer1.jpg" ><img src="psd-work/flyers/knz-flyer1.jpg" /></a>        
+                </div>
+            </li>
+            
+            <li class="flyers all flyer-li">
+                <div class="portfolio type-portfolio">
+                   <a class="fancybox flyer-Res"  href= "psd-work/flyers/knz-flyer2.jpg" ><img src="psd-work/flyers/knz-flyer2.jpg" /></a>        
+                </div>
+            </li>
+            
+            <li class="flyers all flyer-li">
+                <div class="portfolio type-portfolio">
+                   <a class="fancybox flyer-Res"  href= "psd-work/flyers/knz-flyer4.jpg" ><img src="psd-work/flyers/knz-flyer4.jpg" /></a>        
+                </div>
+            </li>
+            
+            
+            <!-- //     2nd Row ( Flyers )   // -->
+            <li class="flyers all flyer-li">
+                <div class="portfolio type-portfolio">
+                   <a class="fancybox flyer-Res"  href= "psd-work/flyers/knz-flyer3.jpg" ><img src="psd-work/flyers/knz-flyer3.jpg" /></a>        
+                </div>
+            </li>
+            
+            <li class="flyers all flyer-li">
+                <div class="portfolio type-portfolio">
+                   <a class="fancybox flyer-Res" href= "psd-work/flyers/supergized-flyer1.jpg" ><img src="psd-work/flyers/supergized-flyer1.jpg" /></a>       
+                </div>
+            </li>
+            
+            <li class="flyers all flyer-li">
+                <div class="portfolio type-portfolio">
+                   <a class="fancybox flyer-Res"  href= "psd-work/flyers/supergized-flyer2.jpg" ><img src="psd-work/flyers/supergized-flyer2.jpg" /></a>      
+                </div>
+            </li>
+            
+            
+            <!-- //     3rd Row ( Flyers )   // -->
+            <li class="flyers all flyer-li">
+                <div class="portfolio type-portfolio">
+                   <a class="fancybox flyer-Res"  href="psd-work/flyers/mlm-flyer1.jpg" ><img src="psd-work/flyers/mlm-flyer1.jpg" /></a>     
+                </div>
+            </li>
+            
+            <li class="flyers all flyer-li">
+                <div class="portfolio type-portfolio">
+                   <a class="fancybox flyer-Res"  href= "psd-work/flyers/mlm-flyer2.jpg" ><img src="psd-work/flyers/mlm-flyer2.jpg" /></a>        
+                </div>
+            </li>
+            
+            <li class="flyers all flyer-li">
+                <div class="portfolio type-portfolio">
+                   <a class="fancybox flyer-Res"  href="psd-work/flyers/mlm-flyer3.jpg" ><img src="psd-work/flyers/mlm-flyer3.jpg" /></a>     
+                </div>
+            </li>
+            
+            
+            <!-- //     4th Row ( Flyers )   // -->
+            <li class="flyers all flyer-li">
+                <div class="portfolio type-portfolio">
+                   <a class="fancybox flyer-Res"  href= "psd-work/flyers/intro-flyer1.jpg" ><img src="psd-work/flyers/intro-flyer1.jpg" /></a>        
+                </div>
+            </li>
+            
+            <li class="flyers all flyer-li">
+                <div class="portfolio type-portfolio">
+                   <a class="fancybox flyer-Res"  href= "psd-work/flyers/intro-flyer6.jpg" ><img src="psd-work/flyers/intro-flyer6.jpg" /></a>        
+                </div>
+            </li>
+            
+            <li class="flyers all flyer-li">
+                <div class="portfolio type-portfolio">
+                   <a class="fancybox flyer-Res"  href= "psd-work/flyers/intro-flyer3.jpg" ><img src="psd-work/flyers/intro-flyer3.jpg" /></a>        
+                </div>
+            </li>
+            
+            
+            <!-- //     5th Row (flyer-li Flyers )   // -->
+            <li class="flyers all flyer-li">
+                <div class="portfolio type-portfolio">
+                   <a class="fancybox flyer-Res"  href= "psd-work/flyers/intro-flyer4.jpg" ><img src="psd-work/flyers/intro-flyer4.jpg" /></a>        
+                </div>
+            </li>
+            
+            <li class="flyers all flyer-li">
+                <div class="portfolio type-portfolio">
+                   <a class="fancybox flyer-Res"  href= "psd-work/flyers/intro-flyer5.jpg" ><img src="psd-work/flyers/intro-flyer5.jpg" /></a>        
+                </div>
+            </li>
+            
+            <li class="flyers all flyer-li">
+                <div class="portfolio type-portfolio">
+                   <a class="fancybox flyer-Res"  href= "psd-work/flyers/intro-flyer2.1.jpg" ><img src="psd-work/flyers/intro-flyer2.1.jpg" /></a>        
+                </div>
+            </li>
+            
+            
+            
+            <!-- //     6th Row ( Flyers )    // -->                    
+            <li class="flyers all flyer-li">
+                <div class="portfolio type-portfolio">
+                   <a class="fancybox flyer-Res"  href= "psd-work/flyers/intro-flyer7.jpg" ><img src="psd-work/flyers/intro-flyer7.jpg" /></a>        
+                </div>
+            </li>
+            
+            <li class="flyers all flyer-li">
+                <div class="portfolio type-portfolio">
+                   <a class="fancybox flyer-Res"  href= "psd-work/flyers/mlm-hear-flyer2.jpg" ><img src="psd-work/flyers/mlm-hear-flyer2.jpg" /></a>      
+                </div>
+            </li>
+        </ul>       
+      </section>
+      </div>
+      </div>
+      <!-- /graphics -->
+    
+    </div>
+    </div>
+  </div>
+  </div>
+  </div>    
+
+</div>    
+</div>
+</div>    
+   
+<!-- portfolio -->
+<script type='text/javascript' src='js/jquery.filterable20b9.js?ver=1.0.2'></script>
+<!-- <script type='text/javascript' src='js/jquery.fitvids5152.js?ver=1.0'></script> -->
+<script type='text/javascript' src='js/sans20b9.js?ver=1.0.2'></script>
+
+<!-- theme scripts -->
+<script src="js/jquery.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/smoothscroll.js"></script>
+<!-- <script src="js/jquery.validate.min.js"></script>
+<script src="js/owl.carousel.min.js"></script> -->
+<script src="js/jquery.pagepiling.js"></script>
+<script src="js/scripts.js"></script>    
+
+
+<!-- FancyBox --> 
+<script src="js/fancybox/jquery.min.js"></script>
+<script src="js/fancybox/jquery.fancybox.js"></script>
+<script type="text/javascript">
+    $(document).ready(function() {
+    $(".fancybox").fancybox();
+    });
+</script>
+        
+</body>
+
+</html>
