@@ -1,0 +1,149 @@
+/*** TOP SEARCH START******/
+.top .search {
+	float:right;
+	height:33px;
+	width:219px;
+	margin:15px 22px 0px 0px;
+	padding:0px;
+	background:url(../images/bkng_bar.jpg) left no-repeat;
+
+}
+.top .search form { margin:0px; padding:0px}
+.top .search .inputbox 
+{
+	float:left;
+	padding:5px;
+	width:170px;
+	height:25px;
+	margin:0px 0 0 0;
+	color:#F97C12;
+	padding:2px 0 0 10px;
+	border:none;
+	background:none;
+	outline: none;
+	line-height: 25px;
+	} 
+	
+.top .search .btn 
+{
+	float:right;
+	width:32px;
+	height:25px;
+	margin:0px 0 0 0;
+	padding:7px 0 0 0;
+	color:#FFFFFF;
+	padding:7px 0 0 0;
+	border:none;
+	text-align:center;
+	background:url(../images/find_btn.jpg) no-repeat;
+	outline: none;
+	text-transform: uppercase;
+	font-family: 'Exo', sans-serif;
+	} 
+.top .search .btn:hover
+{
+	background:url(../images/menu_hover.jpg) no-repeat; color:#FFFFFF;
+	} 
+/*** TOP SEARCH END******/
+ 
+
+
+
+
+/*** LOGIN BOX START******/
+
+.login-box { float:left; margin-left:5px; min-height:200px; border:0px solid blue; }
+.login-box .content { float:left; width:100%; border:0px solid gray;    }
+ 
+.login-box  h1 {    
+	float:left;
+ 	height:auto;
+	margin:5px 0px 0 0px;
+	padding:0px 0px 7px 0px;
+	font-size:20px;
+	color:#120a09;
+	font-family:Trebuchet MS;
+	text-transform:uppercase;
+	border-bottom:1px solid #f37d00;
+}
+ 
+.login-box fieldset { width:250px; margin:0px; padding:0px;  border:0px solid red; }
+.login-box fieldset .inputbox { float:right; border:0px solid black; }
+ilogin-box #form-login-remember { border:0px solid pink;}
+.blk-txt { color:#000000;}
+.blk-txt a { color:#000000;}
+
+/*** LOGIN BOX END******/
+
+
+
+
+
+
+
+/*** FOOTER BOX START******/
+
+.footer-box {
+	float:left;
+	border:0px solid red;
+	background:url(../images/fot_tile.jpg) repeat-x;
+	width: 100%;
+	margin-top: 20px;
+}
+.footer-box .left_side{
+	float:left;
+	width: 310px;
+	color: #fff;
+}
+.footer-box .module_box {
+	margin: 0 auto;
+	width:945px;
+	height:80px;
+	padding: 55px 0 0 0;
+}
+ 
+.footer-box  h1 {   
+	float:left;
+ 	height:auto;
+	margin:5px 0px 0 0px;
+	padding:0px 0px 7px 0px;
+	font-size:20px;
+	color:#120a09;
+	font-family:Trebuchet MS;
+	text-transform:uppercase;
+	border-bottom:1px solid #f37d00;
+}
+ 
+.footerlinks ul.menu {
+	float:left;
+	display: block;
+	padding:0px;
+	text-align:center;
+	width:400px;
+	margin:0px 0px 0px 0px;
+	
+}
+
+.footerlinks ul.menu li a:link, .footerlinks ul.menu li a:visited {
+	float:left;
+	color: #ffffff;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	margin:0px 0px 0px 0px;
+	padding:0 7px 0 7px;
+	text-decoration: none;
+	text-transform:uppercase;
+	background:url(../images/fot_border.jpg) right center no-repeat;
+}
+
+.footerlinks ul.menu li a:hover  {
+	color: #f97e13;
+	text-decoration: underline;
+}
+
+.footerlinks ul li#current a {
+    color: #000000;
+    text-decoration: none;
+	font-weight:bold;
+}
+/*** FOOTER BOX END******/
