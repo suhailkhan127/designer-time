@@ -1,0 +1,1 @@
+Cufon.replace('#header .nav a, h2', { fontFamily: 'DIN 1451 Mittelschrift Alt' });
