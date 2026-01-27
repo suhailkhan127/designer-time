@@ -1,0 +1,121 @@
+/*** TOP SEARCH START******/
+.top {
+	float: left;
+	height: 31px;
+	width: 307px;
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+}
+.top .search {
+	float: left;
+	height: 31px;
+	width: 307px;
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	background:#FFF;
+	border:1px solid #dbd9d9;
+}
+.top .search .form {
+	margin:0px 0 0 0;
+	padding:0px;
+	float: left;
+	width: 100%;
+}
+.top .search .inputbox 
+{
+	float: left;
+	padding: 5px;
+	width: 220px;
+	height: 25px;
+	margin: 0px 0 0 10px;
+	color: #888888;
+	font-family:Arial, Helvetica, sans-serif;
+	padding: 3px 0 0 0px;
+	border: none;
+	background: none;
+	outline: none;
+	font-size:12px;
+	} 
+/*** TOP SEARCH END******/
+ 
+
+
+
+
+/*** LOGIN BOX START******/
+/*** LOGIN BOX END******/
+.newsletter_box {
+	float:left;
+	width:auto;
+	padding:0;
+	margin:7px 0px 0px 0px;
+/*---- for news background
+background:url(../images/news-tile.jpg) repeat-x;
+*/
+}
+.newsletter_box h2 {
+	padding: 0px 0px 0px 0px;
+	margin: 0px 0 0px 0;
+	color: #3f3f3f;
+	font-size: 22px;
+	font-family: 'PT Sans', sans-serif;
+	text-transform: capitalize;
+	letter-spacing: 1px;
+	font-weight: normal;
+	height: 45px;
+}
+.newsletter_box p {
+	float:left;
+	width:230px;
+	padding:0;
+	font-family:Tahoma;
+	font-size:12px;
+	margin:0px 0px 10px 0px;
+	color:#fff;
+}
+.newsletter_box p a{
+	color:#fff;
+}
+
+.newsletter_box p a:hover{
+	color:#F49D3C;
+}
+.newsletter_box .acymailing_form {
+	float: right;
+	width: 214px;
+	height: auto;
+}
+.newsletter_box .input {
+	float: left;
+	width: 214px;
+	height: 28px;
+	border: 1px solid #e6e6e6;
+	color: #000;
+	margin: 0px 0px 0px 0px;
+	background: #fff;
+	padding: 0 0 0 6px;
+	line-height: 28px;
+	-webkit-border-radius: 10px;
+    border-radius: 10px;
+
+}
+
+.newsletter_box .newsletter_btn {
+	float: left;
+	text-align: center;
+	width: 85px;
+	height: 26px;
+	padding: 13px 0px 0px 0px;
+	margin: 0px 2px 0px 0px;
+	color: #b7300d;
+	font-family: Arial, Helvetica, sans-serif;
+	text-transform: uppercase;
+	font-size: 12px;
+	text-decoration: none;
+}
+
+.newsletter_box .newsletter_btn:hover {
+	background: none;
+}
+
+/****NEWSLETTER BOX END*******/
